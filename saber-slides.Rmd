@@ -1,0 +1,45 @@
+---
+title: "Natural Selection Does Not Come Naturally: Getting mired in pattern & process and proximate & ultimate causality"
+author: "Lucy Delaney"
+institute: "University of Illinois at Chicago"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - css/manual-fonts.css
+      - css/mytheme.css
+    includes:
+      after_body: css/insert-logo.html
+    nature:
+      highlightStyle: monokai
+      highlightLines: true
+      ratio: "4:3"
+      countIncrementalSlides: false
+---
+
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "ledelaney/07-21-SABER") %>% 
+  meta_social(
+    title = "Natural Selection Does Not Come Naturally: Getting mired in pattern & process and proximate & ultimate causality",
+    description = paste(
+      "Talk presented at the annual meeting of SABER, 2021"
+    ),
+    url = "https://ledelaney.org/talks/2021saber/",
+    image = "https://ledelaney.org/talks/2021saber/07-21-saber-card.png",
+    image_alt = paste(
+      "Title slide of Natural Selection Does Not Come Naturally: Getting mired in pattern & process and proximate & ultimate causality", 
+      "Talk presented at the annual meeting of SABER, 2021", 
+      "by Lucy Delaney"
+    ),
+    og_type = "website",
+    og_author = "Lucy Delaney",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@emergentyLucy",
+    twitter_site = "@emergentlyLucy"
+  )
+```
+
+class: right, middle, title-slide

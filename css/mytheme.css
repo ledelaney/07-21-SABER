@@ -1,0 +1,676 @@
+
+/* CSS FOR PLACEMENT AND FONT SIZING */
+
+
+/*-- Font sizing --*/
+.larger { font-size: 400% }
+.bitlarger { font-size: 200%; line-height: normal; }
+.large { font-size: 130%; line-height: normal; }
+.mezzoforte {font-size: 110%; line-height: normal;}
+.midi { font-size: 85% }
+.small { font-size: 70% }
+.xsmall { font-size: 60% }
+.tiny { font-size: 50% }
+
+.italic{
+	font-style: italic;
+}
+
+.strike{
+  text-decoration: line-through;
+}
+
+/*-- Spacing --*/
+.pull-left {
+  float: left;
+  width: 47%;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+}
+.pull-right + * {
+  clear: both;
+}
+
+.pull-bottom {
+position: absolute;
+top: 620px;
+right: 50px;
+color: #8c8c8c
+}
+
+.pull-low {
+position: relative;
+top: 200px;
+line-height: normal;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+
+}
+
+.left-align {
+
+	margin: auto;
+	text-align: left;
+}
+
+.right-align{
+	margin: auto;
+	text-align: right;
+}
+
+
+.pull-left-narrow {
+  float: left;
+  width: 20%;
+}
+
+.pull-right-wide {
+  float: right;
+  width: 75%;
+}
+
+.pull-right-wide + * { clear: both; }
+
+.pull-right-low {
+  position: relative;
+  top: 100px;
+  left: 70px;
+}
+
+.pull-right-low + * { clear: both; }
+
+.spaced {
+  word-spacing: 5rem;
+}
+
+
+
+/* TITLE SLIDE STYLE */
+
+.bg_mimosa {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_mimosa::before {    
+      content: "";
+      background-image: url('images/bg/mimosa.jpg');
+      background-size: 550px;
+      background-repeat: no-repeat;
+      background-color: #F5F5F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.title-slide h2 {
+  position: absolute;
+  top: 90px;
+  right: 18px;
+  width: 50%;
+
+}
+
+.title-slide h3 {
+  position: absolute;
+  left: 750px;
+  bottom: 300px;
+  width: 35%;
+
+}
+
+.contact{
+  position: absolute;
+  right: 70px;
+  bottom: 120px;
+
+}
+
+.webpage{
+  position: relative;
+  left: -3px;
+}
+
+/*-- BACKGROUNDS AND SPECIFIC SLIDE STYLING --*/
+
+.bg_blank {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F4F3;
+}
+
+
+/* slide one */
+
+.bg_wisteria {
+  position: relative;
+  z-index: 1;
+  background-color: #F4F1E4;
+}
+
+.bg_wisteria::before {    
+      content: "";
+      background-image: url('images/bg/wisteria.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F4F1E4;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 870px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.bg_wisteria h2 {
+  position: relative;
+  top: 30px;
+
+}
+
+/* slide two */
+
+.tree-left{
+  position: absolute;
+  right: 3rem;
+  top: .5rem;
+}
+
+.tree-up {
+  position: absolute;
+  top: 0.5rem;
+  right: 1.1rem;
+}
+
+
+/* slide three */
+
+.bg_ceratonia {
+  position: relative;
+  z-index: 1;
+  background-color: #F8F4ED;
+}
+
+.bg_ceratonia::before {    
+      content: "";
+      background-image: url('images/bg/ceratonia.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F8F4ED;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* slide four */
+
+.bg_tamarind {
+  position: relative;
+  z-index: 1;
+  background-color: #ece4d5;
+}
+
+.bg_tamarind::before {    
+      content: "";
+      background-image: url('images/bg/tamarind.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #E8E3D2;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* slide five */
+
+
+
+/* slide six */
+
+.bg_pea {
+  position: relative;
+  z-index: 1;
+  background-color: #eae8de;
+}
+
+.bg_pea::before {    
+      content: "";
+      background-image: url('images/bg/pea.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #EEEBE3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* slide seven */
+
+.bg_clitoria {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F4F3;
+}
+
+.bg_clitoria::before {    
+      content: "";
+      background-image: url('images/bg/clitoria.jpg');
+      background-size: 490px;
+      background-repeat: no-repeat;
+      background-color: #F6F4F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 720px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+/* slide eight */
+
+.bg_colutea {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F4F3;
+}
+
+.bg_colutea::before {    
+      content: "";
+      background-image: url('images/bg/colutea.jpg');
+      background-size: 500px;
+      background-repeat: no-repeat;
+      background-color: #F6F4F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 700px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* slide nine */
+
+.bg_dolichos {
+  position: relative;
+  z-index: 1;
+  background-color: #F7F4EF;
+}
+
+.bg_dolichos::before {    
+      content: "";
+      background-image: url('images/bg/dolichos.jpg');
+      background-size: 500px;
+      background-repeat: no-repeat;
+      background-color: #F7F4EF;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 700px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+/* slide ten */
+
+
+/* slide eleven */
+
+.bg_peanut {
+  position: relative;
+  z-index: 1;
+  background-color: #F3E9DE;
+}
+
+.bg_peanut::before {    
+      content: "";
+      background-image: url('images/bg/peanut.jpg');
+      background-size: 560px;
+      background-repeat: no-repeat;
+      background-color: #F3E9DE;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 700px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* slide twelve */
+
+.bg_locust {
+  position: relative;
+  z-index: 1;
+  background-color: #F5F4F2;
+}
+
+.bg_locust::before {    
+      content: "";
+      background-image: url('images/bg/locust.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F5F4F2;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+/* slide thirteen */
+
+
+.bg_trifoliumprat {
+  position: relative;
+  z-index: 1;
+  background-color: #F5F4F3;
+}
+
+.bg_trifoliumprat::before {    
+      content: "";
+      background-image: url('images/bg/trifoliumprat.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F5F4F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* conclusion slide */
+
+.bg_carob {
+  position: relative;
+  z-index: 1;
+  background-color: #EDECEC;
+}
+
+.bg_carob::before {    
+      content: "";
+      background-image: url('images/bg/carob.jpg');
+      background-size: 600px;
+      background-repeat: no-repeat;
+      background-color: #EDECEC;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+      border:none;
+}
+
+/* unused backgrounds */
+
+
+.bg_mimosa2 {
+  position: relative;
+  z-index: 1;
+  background-color: #F4F4F2;
+}
+
+.bg_mimosa2::before {    
+      content: "";
+      background-image: url('images/bg/mimosa2.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F4F4F2;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+
+/*-- LINK STYLING --*/
+
+a {
+  color:              #064200;
+  border-bottom:      0px;
+  text-decoration: none;
+  line-height:        1.5em;
+}
+
+a:hover {
+  border-bottom:      0px;
+}
+
+/*-- HEADINGS --*/
+.remark-slide-content h1 {
+  color:              #4b6640;
+  font-size:          45px;
+  line-height:        1em;
+}
+
+.remark-slide-content h2 {
+  font-size:          35px;
+  color:              #b10000;
+  line-height:        1em;
+  font-family: Fira;
+}
+
+.remark-slide-content h3 {
+  font-size:          28px;
+  color:              #9e2020;
+  line-height: normal;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*-- PARAGRAPH TEXT --*/
+.remark-slide-content {
+  font-size:          30px;
+  line-height:        1em;
+  font-family: "Charter-Racket", serif;
+  color: #2b2b2b
+}
+
+.remark-slide-content ol {
+  line-height: normal;
+}
+
+/*-- HORIZONTAL BARS --*/
+hr {
+  content:            none;
+  display:            block;
+  border:             none;
+  background-color:   #231F20;
+  height:             0.08em;
+}
+
+/*-- BOTTOM-OF-SLIDE PROPERTIES --*/
+
+/*-- Footnote --*/
+.footnote-left {
+  position: absolute;
+  bottom: 0.2em;
+  right: 1em;
+  font-size: 65%;
+  line-height: 1.3em;
+  font-size: 50%;
+}
+
+.footnote-right {
+  position: absolute;
+  bottom: 0.2em;
+  left: 2em;
+  font-size: 65%;
+  line-height: 1.3em;
+  /* width: 15%; */
+  font-size: 50%;
+}
+
+.footnote-up {
+  position: absolute;
+  bottom: 3.5rem;
+  right: 1em;
+  font-size: 65%;
+  line-height: 1.3em;
+  font-size: 50%;
+}
+
+.footnote-lil-up {
+  position: absolute;
+  bottom: 1.7rem;
+  right: 1em;
+  font-size: 65%;
+  line-height: 1.3em;
+  font-size: 50%;
+}
+
+/*-- Slide number --*/
+.remark-slide-number {
+  color:              #000000;
+}
+
+/*-- CODE TEXT --*/
+
+/*-- In-line highlighting within text --*/
+.remark-code, .remark-inline-code {
+  font-size:          90%;
+  font-weight:        400;
+  color:              #e9e9e9;
+  background:         #E8EDEE;
+  border-radius:      3px;
+  padding:            1px 1px 1px 1px;
+  opacity: 0.85;
+}
+
+/*-- Line highlighting within code --*/
+.remark-code-line-highlighted {
+  background-color:   #d9e49d;
+  color: #000000;
+}
+
+/*-- CODE CHUNKS --*/
+
+/*-- Code chunk background layer --*/
+pre {
+  /*border: 2px solid rgba(204, 189, 204, 0.8); /* code chunk border*/
+  border:             none;
+  box-shadow:         2px 2px 2px 2px #eee;
+  padding:            0.1em;                    /* padding between code chunk and border */
+  background:          #577457;
+  overflow-x:         auto;                     /* enable horizontal scrolling with overflow */
+  border-radius:      1px;                      /* modify rounding of corners*/
+  opacity: 0.9;
+}
+
+/*--  --*/
+pre code {
+  background:          none;
+  font-size:           18px !important;
+}
+
+/*-- TABLES --*/
+.remark-slide table {
+  margin:              auto;
+  border-top:          2px solid goldenrod;
+  border-bottom:       2px solid goldenrod;
+  background: #F5F4F2;
+
+}
+
+th {
+  font-size: 20px;
+  line-height: normal;
+  text-align: right;
+
+  
+}
+
+td {
+  text-align: right;
+  padding-left: 5em;
+  padding-bottom: 1em;
+}
+
+
+/*-- BLOCK QUOTE --*/
+
+blockquote {
+  display: block;
+  position: relative;
+  width: 80%;
+  margin: 0px 0px 0px 0px;
+  border-left: solid 5px #000000;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2); }
+
+
+.border {
+  display: block;
+  position: relative;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  margin: 28px -35px 28px -35px;
+  border-left: solid 5px #000000;
+
+}
+
+.border-opaque {
+  display: block;
+  position: relative;
+  padding: 5px;
+  background: #9fd1e3;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  margin: 150px 0px 0px 200px;
+  border-left: solid 5px #000000;
+
+}
+
+
+/*-- Hides slide number --*/
+.remark-slide-number {
+  display:             none;
+}
+
+/*-- CUSTOM CLASSES FOR TEXT EMPHASIS --*/
+.blue       { color:   #005EB8 }
+.green      { color:   #009639 }
+.pink       { color:   #AE2573 }
+.red        { color:   #9e2020 }
+.warmyellow { color:   #FFB81C }
+.gold       { color:   #b0a402;}
+.opaque		{ opacity: 0}
+
