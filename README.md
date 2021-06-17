@@ -2,16 +2,13 @@
 
 ## Abstract
 
-**STUDY DESIGN**
-
+**STUDY DESIGN**.
 To explore how students construct their own explanations related to the process of natural selection -- and whether or not such explanations change following instruction -- I administered a pre-post assignment with five open-ended questions. The study spanned two semesters and included more than 600 students across four undergraduate biology courses, from introductory to advanced. My framework, adapted from Tinbergen's Four Questions, qualitatively categorized students' responses based on the level of explanation addressed (i.e., proximate or ultimate patterns and processes). I tallied the number of responses from each explanatory category both before and after instruction. I performed generalized linear models to assess possible correlations between the level of explanation invoked in each question and four other variables: the student's year of study, declared major, course affiliation, and number of previously earned credits in postsecondary biology courses. I also compared the observed distribution of students' levels of explanation between the pre- and post-assignments for each of the four variables.
 
-**ANALYSES AND INTERPRETATIONS**
-
+**ANALYSES AND INTERPRETATIONS**.
 Irrespective of students' year of study, major, course affiliation, or number of previous credits in biology, more than 80 percent of explanations invoke ultimate patterns, proximate processes, or a combination of these two categories in a single answer, and shift often around explanatory categories both within and between assignments. Students are rarely able to distinguish ultimate processes, and their shifting answers suggest a lack of conceptual clarity regarding such concepts. There is also frequent use of familiar "schemas" or "cognitive construals" like anthropocentric and teleological reasoning. These findings suggest that without explicit and repeated reinforcement of explanatory categories across courses, students will likely continue to struggle with distinguishing between proximate and ultimate patterns and processes throughout their studies.
 
-**CONTRIBUTION**
-
+**CONTRIBUTION**.
 Dobzhansky famously said that nothing in biology makes sense except in the light of evolution. As such, forming a robust conceptual framework in biology requires distinguishing patterns from the processes that generate them -- and distinguishing the functional and evolutionary explanations for such patterns and processes. Without these higher-order cognitive skills, students face an enormous challenge in their conceptual learning of evolution and of biology generally. Here I review the implications of these findings for the teaching and learning of biological sciences, and briefly touch on methods of explicitly addressing such cognitive skills in the classroom.
 
 
