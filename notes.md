@@ -15,6 +15,8 @@
 
 ## raw data demo
 
+## ADD BACK REAL DEMO!!
+
 + Unfortunately I don't have time to illustrate this with a real demonstration so you'll have to take my word for it
 + but studies have shown that if I were to show you these letters and give you 20 seconds to memorize them in the order they appear, it's very unlikely that you could
 + however, if i show you the same letters organized like this --> now memorizing them in twenty seconds would be easy
@@ -27,6 +29,9 @@
 
 + Here evolutionary theory becomes essential, because evoltionary theory IS the concept behind the raw data
 + It's the _reason_ why prokaryotic and eukaryotic cells are different, and the _reason_ there are the enormous diversity of forms and features we observe today on earth
+
+
+# ADD BACK EVOLUTION MOUNTAIN!!! 
 
 ## bison slide
 
@@ -58,6 +63,8 @@
 
 ## results
 
+## MAKE FIGURE THAT INCLUDES MORE DEMO INFORMATION!!!
+
 + student responses largely fell into one of these categories
 + sometimes they invoked one cause, sometimes two
 + but the nature of the ultimate process explanation means that this was never paired with other causes
@@ -71,6 +78,8 @@
 
 ## misconceptions
 
+## ADD BACK ACTUAL MISCONCEPTION SLIDE!!! WITH EXAMPLES!!!
+
 + there's a bit of a debate in the education literature about the nature of misconceptions
 + some suggest that misconceptions are deeply-held and stable alternative frameworks that are extremely resistent to formal training
 + others suggest that actually misonceptions are dynamic and highly context-sensitive
@@ -78,6 +87,8 @@
 + in my own experience, apparent misconceptions are often the result of students "playing the classroom game", or in other words, the act of hoping to repeat the correct answer teacher said without understanding the underlying concepts
 
 ## engaging with ideas
+
+## MAKE THIS MORE EDUCATION RESEARCH PEOPLE FOCUSED, NOT BIOLGIST FOCUSED!!!
 
 + and it's a bit tricky to make sure that students are really getting those underlying concepts
 + but a few things can help: one of the most important is fostering discussion and then engaging with students ideas -- not just to evaluate how close their words are to the appropriate words, but to really try and understand the _reasoning_ behind what they're saying
@@ -111,6 +122,8 @@
 + and then, we can introduce the idea of mutation itself as a process
 
 ## conclusion slide
+
+## REWORK THIS ONCE EVERYTHING IS IN PLACE!!
 
 + the idea of educators or textbooks telling students what the "answer" is without discussing what _reasoning_ is necessary to believe one idea over the other is at odds with how science is actually done in real life
 + so better biology education begins with educators moving away from focusing on "right answers", and bringing the focus to the _reasoning_ and information required to distinguish right answers from wrong ones
