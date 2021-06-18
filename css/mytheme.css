@@ -1,4 +1,3 @@
-
 /* CSS FOR PLACEMENT AND FONT SIZING */
 
 
@@ -6,7 +5,6 @@
 .larger { font-size: 400% }
 .bitlarger { font-size: 200%; line-height: normal; }
 .large { font-size: 130%; line-height: normal; }
-.mezzoforte {font-size: 110%; line-height: normal;}
 .midi { font-size: 85% }
 .small { font-size: 70% }
 .xsmall { font-size: 60% }
@@ -84,33 +82,9 @@ line-height: normal;
 
 .pull-right-low + * { clear: both; }
 
-.spaced {
-  word-spacing: 5rem;
-}
-
 
 
 /* TITLE SLIDE STYLE */
-
-.bg_mimosa {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_mimosa::before {    
-      content: "";
-      background-image: url('images/bg/mimosa.jpg');
-      background-size: 550px;
-      background-repeat: no-repeat;
-      background-color: #F5F5F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
 
 .title-slide h2 {
   position: absolute;
@@ -121,335 +95,406 @@ line-height: normal;
 }
 
 .title-slide h3 {
-  position: absolute;
-  left: 750px;
-  bottom: 300px;
-  width: 35%;
+  position: relative;
+  width: 48%;
+  top:  0px;
+  left: 440px;
 
 }
 
-.contact{
-  position: absolute;
-  right: 70px;
-  bottom: 120px;
-
+.contact {
+  position: relative;
+  top: 20px;
+  left: 580px;
 }
 
-.webpage{
+.title-slide > .fa-github, .fa-twitter {
+  color: #9e4e20;
+}
+
+.webpage {
   position: relative;
   left: -3px;
 }
 
+.webpage > .fa-address-card, .fa-github {
+  color: #9e4e20;
+}
+
+
+
+
 /*-- BACKGROUNDS AND SPECIFIC SLIDE STYLING --*/
 
-.bg_blank {
+/* title slide */
+
+.bg_frog {
   position: relative;
   z-index: 1;
-  background-color: #F6F4F3;
 }
 
-
-/* slide one */
-
-.bg_wisteria {
-  position: relative;
-  z-index: 1;
-  background-color: #F4F1E4;
-}
-
-.bg_wisteria::before {    
+.bg_frog::before {    
       content: "";
-      background-image: url('images/bg/wisteria.jpg');
+      background-image: url('images/bg/frog.jpg');
       background-size: contain;
       background-repeat: no-repeat;
-      background-color: #F4F1E4;
+      background-color: #fdf2e3;
       position: absolute;
       top: 0px;
       right: 0px;
       bottom: 0px;
-      left: 870px;
+      left: 0px;
       opacity: 1;
       z-index: -1;
 }
 
-.bg_wisteria h2 {
+
+
+/* slide one: biology education got problems */
+
+.bg_sunflower {
   position: relative;
+  z-index: 1;
+  background-color: #EFEDE6;
+}
+
+.bg_sunflower::before {    
+      content: "";
+      background-image: url('images/bg/sunflower.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-color: #EFEDE6;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.bg_sunflower h3 {
+  position: relative;
+  top: -20px;
+}
+
+
+
+/* slide two: raw data memorization demo */
+
+.bg_lobster {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F5F0;
+}
+
+.bg_lobster::before {    
+      content: "";
+      background-image: url('images/bg/lobster.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F6F5F0;
+      position: absolute;
+      top: 320px;
+      right: 0px;
+      bottom: 0px;
+      left: 40px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+
+/* slide three: dobzhansky was right */
+
+.bg_swan {
+  position: relative;
+  z-index: 1;
+  background-color: #EFEDE6;
+}
+
+.bg_swan::before {    
+      content: "";
+      background-image: url('images/bg/swan.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #EFEDE6;
+      position: absolute;
+      top: 45px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.bg_swan h2 {
+  position: absolute;
+  top: 390px;
+  width: 40%;
+  left: 515px;
+}
+
+.swantext {
+  position: absolute;
+  top: 500px;
+  left: 570px;
+}
+
+
+
+/* slide four: biology is a(n) historical science */
+
+.bg_bison {
+  position: relative;
+  z-index: 1;
+  background-color: #EEEDE9;
+}
+
+.bg_bison::before {    
+      content: "";
+      background-image: url('images/bg/bison.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #EEEDE9;
+      position: absolute;
+      top: 90px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.9;
+      z-index: -1;
+}
+
+.bisontext {
+  position: absolute;
+  top: 320px;
+  left: 200px;
+  width: 65%;
+}
+
+
+
+/* slide five: study design */
+
+.bg_bat {
+  position: relative;
+  z-index: 1;
+  background-color: #F7F7F6;
+}
+
+.bg_bat::before {    
+      content: "";
+      background-image: url('images/bg/bat.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F7F7F6;
+      position: absolute;
+      top: 100px;
+      right: 0px;
+      bottom: 0px;
+      left: 220px;
+      opacity: 0.8;
+      z-index: -1;
+}
+
+
+/* slide six: tinbergen's four questions framework */
+
+.bg_brain {
+  position: relative;
+  z-index: 1;
+  background-color: #F3F1EB;
+}
+
+.bg_brain::before {    
+  content: "";
+  background-image: url('images/bg/brain.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+  background-color: #F3F1EB;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.2;
+  z-index: -1;
+}
+
+
+/* slide seven: so what happened? */
+
+.bg_turtle {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F5F1;
+}
+
+.bg_turtle::before {    
+      content: "";
+      background-image: url('images/bg/turtle.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F6F5F1;
+      position: absolute;
+      top: 60px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.9;
+      z-index: -1;
+}
+
+.turtletext{
+  position: absolute;
+  top: 130px;
+  left: 550px;
+}
+
+
+/* slide eight: results */
+
+.bg_fish {
+  position: relative;
+  z-index: 1;
+  background-color: #F9F9F7;
+}
+
+.bg_fish::before {    
+      content: "";
+      background-image: url('images/bg/fish.jpg');
+      background-size: 400px;
+      background-repeat: no-repeat;
+      background-color: #F9F9F7;
+      position: absolute;
+      top: 450px;
+      right: 0px;
+      bottom: 0px;
+      left: 430px;
+      opacity: 0.9;
+      z-index: -1;
+}
+
+.bg_fish h2 {
+  position: relative;
+  top: 200px;
+  width: 55%;
+  right: 70px;
+  text-align: left;
+  line-height: normal;
+
+}
+
+
+/* slide nine: who's afraid of misconceptions? */
+
+.bg_sting {
+  position: relative;
+  z-index: 1;
+  background-color: #F4EFEF;
+}
+
+.bg_sting::before {    
+      content: "";
+      background-image: url('images/bg/sting.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-color: #F4EFEF;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 10px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.bg_sting h2 {
+  position: relative;
+  top: 130px;
+  left: 480px;
+  width: 35%;
+}
+
+
+/* slide ten: coin demo */
+
+.bg_3birds {
+  position: relative;
+  z-index: 1;
+  background-color: #F3F1EB;
+}
+
+.bg_3birds::before {    
+  content: "";
+  background-image: url('images/bg/three-birds.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #F3F1EB;
+  position: absolute;
   top: 30px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.birdtext{
+  position: relative;
+  bottom: 85px;
+  left: 70px;
 
 }
 
-/* slide two */
 
-.tree-left{
+/* slide eleven: building blocks */
+
+.bg_leaves {
+  position: relative;
+  z-index: 1;
+  background-color: #F3F1EB;
+}
+
+.bg_leaves::before {    
+  content: "";
+  background-image: url('images/bg/leaves.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #F3F1EB;
   position: absolute;
-  right: 3rem;
-  top: .5rem;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 50px;
+  opacity: 1;
+  z-index: -1;
 }
 
-.tree-up {
-  position: absolute;
-  top: 0.5rem;
-  right: 1.1rem;
-}
-
-
-/* slide three */
-
-.bg_ceratonia {
+.leavestext {
+  width: 50%;
+  line-height: 1.3em;
   position: relative;
-  z-index: 1;
-  background-color: #F8F4ED;
-}
-
-.bg_ceratonia::before {    
-      content: "";
-      background-image: url('images/bg/ceratonia.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F8F4ED;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-/* slide four */
-
-.bg_tamarind {
-  position: relative;
-  z-index: 1;
-  background-color: #ece4d5;
-}
-
-.bg_tamarind::before {    
-      content: "";
-      background-image: url('images/bg/tamarind.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #E8E3D2;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-/* slide five */
-
-
-
-/* slide six */
-
-.bg_pea {
-  position: relative;
-  z-index: 1;
-  background-color: #eae8de;
-}
-
-.bg_pea::before {    
-      content: "";
-      background-image: url('images/bg/pea.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #EEEBE3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-/* slide seven */
-
-.bg_clitoria {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F4F3;
-}
-
-.bg_clitoria::before {    
-      content: "";
-      background-image: url('images/bg/clitoria.jpg');
-      background-size: 490px;
-      background-repeat: no-repeat;
-      background-color: #F6F4F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 720px;
-      opacity: 1;
-      z-index: -1;
+  text-align: left;
+  left: 250px;
 }
 
 
-/* slide eight */
-
-.bg_colutea {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F4F3;
-}
-
-.bg_colutea::before {    
-      content: "";
-      background-image: url('images/bg/colutea.jpg');
-      background-size: 500px;
-      background-repeat: no-repeat;
-      background-color: #F6F4F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 700px;
-      opacity: 1;
-      z-index: -1;
-}
-
-/* slide nine */
-
-.bg_dolichos {
-  position: relative;
-  z-index: 1;
-  background-color: #F7F4EF;
-}
-
-.bg_dolichos::before {    
-      content: "";
-      background-image: url('images/bg/dolichos.jpg');
-      background-size: 500px;
-      background-repeat: no-repeat;
-      background-color: #F7F4EF;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 700px;
-      opacity: 1;
-      z-index: -1;
-}
-
-
-/* slide ten */
-
-
-/* slide eleven */
-
-.bg_peanut {
-  position: relative;
-  z-index: 1;
-  background-color: #F3E9DE;
-}
-
-.bg_peanut::before {    
-      content: "";
-      background-image: url('images/bg/peanut.jpg');
-      background-size: 560px;
-      background-repeat: no-repeat;
-      background-color: #F3E9DE;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 700px;
-      opacity: 1;
-      z-index: -1;
-}
-
-/* slide twelve */
-
-.bg_locust {
-  position: relative;
-  z-index: 1;
-  background-color: #F5F4F2;
-}
-
-.bg_locust::before {    
-      content: "";
-      background-image: url('images/bg/locust.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F5F4F2;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-
-/* slide thirteen */
-
-
-.bg_trifoliumprat {
-  position: relative;
-  z-index: 1;
-  background-color: #F5F4F3;
-}
-
-.bg_trifoliumprat::before {    
-      content: "";
-      background-image: url('images/bg/trifoliumprat.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F5F4F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
 
 /* conclusion slide */
 
-.bg_carob {
+.bg_lotus {
   position: relative;
   z-index: 1;
-  background-color: #EDECEC;
 }
 
-.bg_carob::before {    
+.bg_lotus::before {    
       content: "";
-      background-image: url('images/bg/carob.jpg');
-      background-size: 600px;
+      background-image: url('images/bg/lotus.jpg');
+      background-size: cover;
       background-repeat: no-repeat;
-      background-color: #EDECEC;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-      border:none;
-}
-
-/* unused backgrounds */
-
-
-.bg_mimosa2 {
-  position: relative;
-  z-index: 1;
-  background-color: #F4F4F2;
-}
-
-.bg_mimosa2::before {    
-      content: "";
-      background-image: url('images/bg/mimosa2.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F4F4F2;
+      background-color: #B0C4CB;
       position: absolute;
       top: 0px;
       right: 0px;
@@ -459,6 +504,29 @@ line-height: normal;
       z-index: -1;
 }
 
+.bg_lotus h2{
+  /* width: 80%; */
+  position: relative;
+  left: 100px;
+  top: 20px;
+}
+
+.lotusicon {
+  position: relative;
+  left: 40px;
+  padding: 0.1px;
+}
+
+.lotustext {
+  position: relative;
+  text-align: right;
+  left: 20px;
+}
+
+.lotusthanks{
+  background-color: rgb(218, 174, 169);
+  width: fit-content;
+}
 
 
 /*-- LINK STYLING --*/
@@ -483,21 +551,21 @@ a:hover {
 
 .remark-slide-content h2 {
   font-size:          35px;
-  color:              #b10000;
+  color:              #aa5a00;
   line-height:        1em;
   font-family: Fira;
 }
 
 .remark-slide-content h3 {
   font-size:          28px;
-  color:              #9e2020;
+  color:              #aa5a00;
   line-height: normal;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
 /*-- PARAGRAPH TEXT --*/
 .remark-slide-content {
-  font-size:          30px;
+  font-size:          20px;
   line-height:        1em;
   font-family: "Charter-Racket", serif;
   color: #2b2b2b
@@ -519,41 +587,22 @@ hr {
 /*-- BOTTOM-OF-SLIDE PROPERTIES --*/
 
 /*-- Footnote --*/
-.footnote-left {
+.footnote-light {
   position: absolute;
   bottom: 0.2em;
-  right: 1em;
+  left: 1em;
   font-size: 65%;
   line-height: 1.3em;
-  font-size: 50%;
 }
 
-.footnote-right {
+.footnote-dark {
   position: absolute;
   bottom: 0.2em;
   left: 2em;
   font-size: 65%;
   line-height: 1.3em;
-  /* width: 15%; */
-  font-size: 50%;
-}
-
-.footnote-up {
-  position: absolute;
-  bottom: 3.5rem;
-  right: 1em;
-  font-size: 65%;
-  line-height: 1.3em;
-  font-size: 50%;
-}
-
-.footnote-lil-up {
-  position: absolute;
-  bottom: 1.7rem;
-  right: 1em;
-  font-size: 65%;
-  line-height: 1.3em;
-  font-size: 50%;
+  color: #FFFFFF;
+  width: 15%;
 }
 
 /*-- Slide number --*/
@@ -605,7 +654,6 @@ pre code {
   margin:              auto;
   border-top:          2px solid goldenrod;
   border-bottom:       2px solid goldenrod;
-  background: #F5F4F2;
 
 }
 
@@ -669,8 +717,7 @@ blockquote {
 .blue       { color:   #005EB8 }
 .green      { color:   #009639 }
 .pink       { color:   #AE2573 }
-.red        { color:   #9e2020 }
+.red        { color:   #DA291C }
 .warmyellow { color:   #FFB81C }
 .gold       { color:   #b0a402;}
 .opaque		{ opacity: 0}
-

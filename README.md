@@ -1,4 +1,6 @@
-# SABER, 2021
+# Society for the Advancement of Biology Education Research, 2021
+
+![](css/images/07-2021-saber-card.png)
 
 ## Abstract
 
@@ -14,13 +16,13 @@ Dobzhansky famously said that nothing in biology makes sense except in the light
 
 ## Slides
 
-Libraries and preliminary `HTML` file created with the R package `xaringan`, which uses `remark.js`. Gained a lot of valuable insight on these tools from trawling the GitHub pages of [@gadenbuie](https://github.com/gadenbuie) and [@mine-cetinkaya-rundel](https://github.com/mine-cetinkaya-rundel). The rest was (poorly) hard-coded the old-fashioned way by me.
+Libraries and preliminary `HTML` file created with the R package `xaringan`, built on `remark.js`. Gained a lot of valuable insight on these tools from trawling the GitHub pages of [@gadenbuie](https://github.com/gadenbuie) and [@mine-cetinkaya-rundel](https://github.com/mine-cetinkaya-rundel). The rest was (poorly) hard-coded the old-fashioned way by me.
 
 ### Images
 
 Most originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), an incredible resource of public domain images. (Found trawling the GitHub pages of [@apreshill](https://github.com/apreshill).)
 
-+ [Ink mushrooms (1915) by Julie de Graag](https://www.rawpixel.com/image/466875/free-illustration-image-mushroom-mushrooms-public-domain-hand)
++ [Swimming frog by Julie de Graag](https://www.rawpixel.com/image/466984/free-illustration-image-frog-julie-graag-woodcut)
 + [Sunflower (Zonnebloem) (1914) by Samuel Jessurun de Mesquita](https://www.rawpixel.com/image/2687348/free-illustration-image-sunflower-black-and-white-art)
 + [Lobster by anonymous (1560–1585), Original from The Rijksmuseum](https://www.rawpixel.com/image/843231/vintage-lobster-drawing)
 + [Kwitantie voor proefexemplaar van 'Het leelijke jonge eendje' (1893) by Theo van Hoytema](https://www.rawpixel.com/image/2724090/free-illustration-image-swan-art-nouveau-vintage)
