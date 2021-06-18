@@ -1,6 +1,6 @@
 # Society for the Advancement of Biology Education Research, 2021
 
-![y](css/images/07-2021-saber-card.png)
+![](css/images/07-21-saber-card.png)
 
 ## Abstract
 
