@@ -1,6 +1,98 @@
 # speech
 
 ## title slide
+
++ Good afternoon, I'm really glad to be here today and excited to share the results from my first project in BER.
++ This talk is very different than the talk that I intended on giving when I submitted an abstract to SABER this year
++ So I'll also be sharing with you a little bit about the history of this work and my own personal journey in BER -- especially on the off-chance that there are other graduate students here that are considering work in BER with relatively little instutional support
++ I started my PhD in ecology and evolution with the intention of becoming a research scientist, and it was halfway through my thesis that I realized that my real passion and interest was in the field of education
++ Somehow I managed to convince my core PhD committee to let me change the direction of my thesis even though none of them had experience in BER, and added a chemistry education researcher to the team who, at the time, was the closest thing to someone with expertise in BER at my institution
++ I knew that I was interested in how students develop conceptual frameworks in evolutionary biology, and how they integrate that knowledge within the larger field of biological sciences
++ As evolution is the light that illuminates the discipline of biology, it is essential that our students can both understand evolution and also integrate that knowledge to other aspects of the field
+
+## concept inventories and WTL
++ misconceptions themselves about evolutionary theory are well-documented in the literature and have been studied for almost a century.
++ there are a wealth of concept inventories examining domain-specific knowledge, but there are relatively few open-ended assessments that allow students time and space to build an argument and support their claims
++ MENTION ACORNS
++ MENTION HOW OPEN-ENDED SHIT IS CHALLENING TO GRADE AND STUFF
++ MENTION WRITE-TO-LEARN ?
+
+## somewhere in here about lacking frameworks for conceptual understanding?
+
++ work through nehm 2019 and other recent papers to develop an argument here from the literature
+
+## developing the questions
+
++ developed 15 open-ended questions and did a pilot version during the summer semester
++ the most striking feature of student answers was that, while non-normative ideas were common, in general many answers weren't exactly... wrong
++ SHOW SOME EXAMPLES
+
+## start talking about pattern process
+
++ basically a mini-lit review on student thinking in these areas, but also focus on causal explanations or mechanistic explanations that have to do with emergence specifically
+
+## talk about proximate and ultimate
+
++ mayr
++ kampourakis and other work 
++ fractured nature of biological sciences can make these distinctions challenging
++ ahistorical
+
+## discuss the construction of your new framework
+
++ bring in tinbergen
++ talk about your grid and its utility in providing a more holistic picture of student understanding and reasoning in a big-picture manner
++ discuss examples of the questions and how they fit in the grid
+
+## digress about the intentions of your framework
+
++ so, i collected my data: i ended up with just under 600 participants across four biology courses spanning two semesters
++ I used my new framework to code student responses in an effort to... well, and that's the thing: what exactly was I trying to do? What question was I trying to answer?
++ I had a lot of data, and I discovered, I think, an interesting pattern
++ But I myself had gotten lost in the details of my own work
++ This became especially clear to me after my submitted abstract for this talk I am giving right now was rejected, and reviewer 2 (why is it always reviewer 2??) made some very prescient critiques that I could not ignore.
++ Around the time I found out that I would indeed be giving my originally-rejected talk at SABER, I also discovered that the talk I submitted to the Society for the Study of Evolution conference would be presented beside an intimidating group of BER researchers
++ Honestly, I wanted to crawl under a rock. We don't always talk about how challenging it can be to share work at professional conferences -- certainly for someone like me that struggles with anxiety -- but also when you are entirely new in the field.
++ ADD SOMETHING ABOUT KEEPING PEOPLE FROM SWITCHING?
++ I ended up getting very lucky that Gena Sbeglia from Ross Nehm's lab at Stony Brook graciously took the time to chat with me for a long time after my talk at the SSE Conference and helped me find some clarity when I was lost in the weeds
+
+## discuss the proposal of your framework as a tool
+
++ so what I am here to do today is to propose this framework
+
+## validity evidence
+
+## interrater reliability
+
+## the pattern you discovered
+
++ show the overall distribution, then the distribution split up by all these other factors.
++ talk about the statistics you used to compare the distributions and how nothing was significant
+
+## the implications of this pattern
+
++ doesn't seem to matter where kids went to high school or how many credits they have or whatever
++ do acknowledge you don't have demographic data/evolution acceptance or understanding, but that this pattern seems really consistent across a very diverse student body
++ tie pattern into the current literature on fractured nature of bio edu and focus on proximate
+
+## how this framework can be used as a teaching tool
+
++ explicitly teach students about each componenet of the grid
++ maybe pull out another example question so that students can work through plausible explanations for each portion
++ discuss as a class
+
+## limitations/future work
+
++ gather other factors like demographics or understanding/acceptance of evolution 
++ repeat with instructional intervention
+
+
+## conclusion/acknowledgements
+
+
+
+
+## title slide
 + Hi everyone! My name is Lucy, and I'm a PhD candidate in Evolutionary Biology at University of Illinois at Chicago. 
 + I'm excited to speak to you today about some of my recent work in biology education research
 + Quite obviously, students' understanding of biological sciences is essential to their pursuit of biology-related degrees and careers
@@ -134,6 +226,13 @@
 and i'm happy to take any questions!
 
 # notes
+
+try to link to the complaints that nehm makes in 2019: why you don't care for CIs, why you wanted a framework that cut across heirarchies and the importance of that kind of holistic reasoning
+
+
+
+
+
 
 Students can't create a knowledge framework on the basis of p-prims and memorized facts. They need a concept map, and they need somewhere to begin; they need to be shown how all the parts are interrelated. Classes include: memorizing terms, memorizing examples, memorizing processes -- how often in biology education do we connect all these?
 
