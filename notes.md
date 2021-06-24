@@ -4,230 +4,135 @@
 
 + Good afternoon, I'm really glad to be here today and excited to share the results from my first project in BER.
 + This talk is very different than the talk that I intended on giving when I submitted an abstract to SABER this year
-+ So I'll also be sharing with you a little bit about the history of this work and my own personal journey in BER -- especially on the off-chance that there are other graduate students here that are considering work in BER with relatively little instutional support
++ So I'll also be sharing with you a little bit about the history of this work and my own personal journey in BER -- especially if there are other students here today that are considering work in BER with relatively little instutional support
 + I started my PhD in ecology and evolution with the intention of becoming a research scientist, and it was halfway through my thesis that I realized that my real passion and interest was in the field of education
-+ Somehow I managed to convince my core PhD committee to let me change the direction of my thesis even though none of them had experience in BER, and added a chemistry education researcher to the team who, at the time, was the closest thing to someone with expertise in BER at my institution
-+ I knew that I was interested in how students develop conceptual frameworks in evolutionary biology, and how they integrate that knowledge within the larger field of biological sciences
++ Somehow I managed to convince my core PhD committee to let me change the direction of my thesis even though none of them had experience in BER, and I added a chemistry education researcher to the team who, at the time, was the closest thing to someone with expertise in BER at my institution
++ I knew that I was interested in how students develop conceptual frameworks in evolutionary biology
 + As evolution is the light that illuminates the discipline of biology, it is essential that our students can both understand evolution and also integrate that knowledge to other aspects of the field
 
-## concept inventories and WTL
-+ misconceptions themselves about evolutionary theory are well-documented in the literature and have been studied for almost a century.
-+ there are a wealth of concept inventories examining domain-specific knowledge, but there are relatively few open-ended assessments that allow students time and space to build an argument and support their claims
-+ MENTION ACORNS
-+ MENTION HOW OPEN-ENDED SHIT IS CHALLENING TO GRADE AND STUFF
-+ MENTION WRITE-TO-LEARN ?
+## evolution mountain?
 
-## somewhere in here about lacking frameworks for conceptual understanding?
++ a large body of work has demonstrated that a coherent framework of evolutionary biology that allows for deep conceptual understanding of evolutionary concepts does not come easily
++ first, we all need to speak the same words
++ then we need to use those words to understand basic biological processes like DNA replication
++ then we can bring in the idea of ecology along with environmental processes that influence organisms
++ we must start thinking about randomness, probability, and timescale -- what these biological and environmental processes may yield over large timescales
++ now we are about ready to bring in selection and drift, or stochastic and deterministic evolutionary processes,
++ we must learn to distinguish a pattern from the process that generates that pattern
++ and lastly, as mayr famously notes, there are both functional (or proximate) and ultiamte (or evolutionary) causes for any given biological phenomena -- but today i will focus specifically on the concept of adaptation
 
-+ work through nehm 2019 and other recent papers to develop an argument here from the literature
+## proximate and ultimate causality: explanation
 
-## developing the questions
++ take, for instance, the question of why wood exists
++ on a functional or proximate-level, wood exists because of secondary growth caused by cell division in the vascular cambium 
++ but there is another explanation for the repeated evolution of wood: inter- and intra-specific competition for light over time
++ that is, there is also an ultimate or evolutionary process responsible for the existence of wood 
++ so, a full understanding of a given trait or adaptation requires that students can reason at both levels of biological explanation
 
-+ developed 15 open-ended questions and did a pilot version during the summer semester
-+ the most striking feature of student answers was that, while non-normative ideas were common, in general many answers weren't exactly... wrong
-+ SHOW SOME EXAMPLES
+## kampourakis typology
 
-## start talking about pattern process
++ however, proposing possible explanations for a given phenomena at _any_ level, whether proximate or ultimate, requires first distinguishing an observable pattern
++ a pattern can be thought of as a description of _what_ has taken place, while a process may be thought of as a causal mechanistic explanation responsible for the existence of whatever has taken place
++ Kampourakis & Niebert propose a typology of biological explanation that addresses the various descriptions and explanations appropriate for various levels of biological heirarchy, reproduced here...
++ the typology distinguishes between two levels of description: what there is (so here, a flying bird), and what functional explanation is appropriate for it (muscles connected to bone). 
++ There are then three possible levels of explanation: proximate causes ( physiological explanations appropriate for individual organisms), ultimate causes (historical explanations related to selective pressures over time), and teleological causes (which describe motives or aims of organisms).
++ teleological explanations are generally incorrect, and use the function or design of a trait, or the personal motivations of the organism, to explain the trait's existence
 
-+ basically a mini-lit review on student thinking in these areas, but also focus on causal explanations or mechanistic explanations that have to do with emergence specifically
+## the problem
 
-## talk about proximate and ultimate
++ this typology provides enormous utility in understanding the various levels of description and explanation possible in biological sciences, but there are two key points this typology does not address:
 
-+ mayr
-+ kampourakis and other work 
-+ fractured nature of biological sciences can make these distinctions challenging
-+ ahistorical
+1. there is a _relationship_ between patterns and processes at various levels, and
+2. there are legitimate teleological descriptions in the study of adaptation
+
+## pattern-process relationship (keep numbered points at top)
+
++ let's return to the question of why wood exists
++ the proximate and ultimate processes responsible for the existence of wood also, of course, produce observable patterns
++ Woody tissue exists both because there are trees, and because trees, like all organisms, must adapt to their environment to survive
++ so, there is an observable pattern at both the proximate and ultimate level -- that trees exist, and that wood has evolved more than once across different groups of plants
++ these patterns or descriptions are what allow scientists to investigate the action of evolutionary processes over time
+
+## legitimate teleological description
+
++ another feature of ultimate patterns is that while they cannot serve as _explanations_, they serve as a kind of legitimate teleological description
++ examining the current distribution of traits across groups of organisms can provide insight into the kinds of selective pressures responsible for the maintenance of such traits across macroevolutionary timescales
++ and actually much of the current work of evolutionary biology involves determining the observed pattern of a trait across a phylogeny, and then using computational modeling tools to infer what processes produced that observed pattern
+
+## studies on explanation versus description
+
++ an enormous body of work has examined student construction of causal or mechanistic explanations, but relatively few studies examine the extent to which students provide descriptions in the place of explanations
++ Riemeier finds that only 41% of interviewed students are able to provide causal explanations for biological phenomena when asked to do so, while the remainder provide descriptions
++ However, an interesting feature of some teleological explanations is that, while they are insufficient as explanations, as descriptions, they are often correct. 
++ Take for instance these two statements from a study examining student preference for teleological explanations
+
+Sweating occurs because ...
+1. ...inthisway,thebodycaneliminateexcessheat(teleological).
+2. ...themusclesthatsurroundthesweatglandscontract(causal).
+
++ The first, as a causal explanation, is obviously incorrect. 
++ However, as a statement of biological description, it is indeed true that the body eliminates excess heat via persperation. 
++ Moreover, the observed patterns of evaporative heat-loss mechanisms in mammals – and the enormous variation in these mechanisms like panting, sweating, and various kinds of sweat glands – provides valuable fodder for examining the evolutionary mechanisms influencing thermoregulation in mammalian organisms. 
++ which is to say, the observation that the body eliminates excess heat through sweating is not only correct, but an important step in understanding the trait itself and its possible adaptive significance.
 
 ## discuss the construction of your new framework
 
-+ bring in tinbergen
-+ talk about your grid and its utility in providing a more holistic picture of student understanding and reasoning in a big-picture manner
-+ discuss examples of the questions and how they fit in the grid
++ Niko Tinbergen, leaning on Aristotle, formalized four questions that he argued were all necessary for fully explaining a given trait or adaptation
++ there are developmental and mechanistic explanations relating to individual organisms, and phylogenetic and adaptive explanations relating to groups of organisms or species. 
++ These questions were organized into a grid by Nesse (2013), providing enormous utility as an explanatory framework by addressing both proximate and ultimate causality, along with corresponding proximate and ultimate patterns necessary for making inferences about their generating processes.
++ this grid is valuable in that it organizes the levels of biological description and explanation into a very clear framework
+
+## developing the questions
+
++ now, when I first planned my BER project I wasn't exactly sure where I wanted to go
++ I wanted to ask layered questions about adaptation, but it was not clear to me what framework I should use to analyze student responses given that I wasn't necessarily interested in students' non-normative ideas perse, but the logic behind their reasoning
++ so first, I developed 15 open-ended questions and did a pilot version during the summer semester
++ the most striking feature of student answers was that, while non-normative ideas were common, in general many answers weren't exactly... wrong
++ for example, I asked students why cave fish -- regardless of the species of fish -- eventually lose their eyesight
++ Many correctly noted that eyes are energetically costly in an environment where they are not used (ultimate pattern), some discussed a mutation occurring in an individual fish without explaining how that mutation may spread across the population -- rarely, some students were able to put these two concepts together to describe an evolutionary process
++ in this way the data really spoke to me: I realized that students were simply addressing various levels of explanation or description across the tinbergen framework
 
 ## digress about the intentions of your framework
 
-+ so, i collected my data: i ended up with just under 600 participants across four biology courses spanning two semesters
++ I then developed a set of ten questions about different kinds of adaptation -- emergent features like species ranges, trait loss, trait gain, or even constraints -- in various organisms, and I collected data across the Fall and Spring semester
++ I ended up with just under 600 participants across four biology courses from introductory to advanced
 + I used my new framework to code student responses in an effort to... well, and that's the thing: what exactly was I trying to do? What question was I trying to answer?
 + I had a lot of data, and I discovered, I think, an interesting pattern
 + But I myself had gotten lost in the details of my own work
 + This became especially clear to me after my submitted abstract for this talk I am giving right now was rejected, and reviewer 2 (why is it always reviewer 2??) made some very prescient critiques that I could not ignore.
-+ Around the time I found out that I would indeed be giving my originally-rejected talk at SABER, I also discovered that the talk I submitted to the Society for the Study of Evolution conference would be presented beside an intimidating group of BER researchers
-+ Honestly, I wanted to crawl under a rock. We don't always talk about how challenging it can be to share work at professional conferences -- certainly for someone like me that struggles with anxiety -- but also when you are entirely new in the field.
-+ ADD SOMETHING ABOUT KEEPING PEOPLE FROM SWITCHING?
-+ I ended up getting very lucky that Gena Sbeglia from Ross Nehm's lab at Stony Brook graciously took the time to chat with me for a long time after my talk at the SSE Conference and helped me find some clarity when I was lost in the weeds
++ Around the time I found out that I would actually be giving my originally-rejected talk today at SABER, I also discovered that the talk I submitted to the Annual Evolution conference would be presented beside an intimidating group of biology education researchers
++ Honestly, I wanted to crawl under a rock. We don't always talk about how challenging it can be to share work at professional conferences -- certainly for someone like me that struggles with anxiety -- but also for those of us that may be entirely new in a field of study.
++ but, I ended up getting very lucky that Gena Sbeglia from Ross Nehm's lab at Stony Brook graciously chatted with me for a long time after my talk at the Conference, and helped me find some clarity when I was lost in the weeds
++ because what i thought i was doing was developing an assessment that could tell us something about student understanding of evolution
 
 ## discuss the proposal of your framework as a tool
 
-+ so what I am here to do today is to propose this framework
++ but indeed what i am actually here to do today is to propose this framework as a tool for systematically assessing student thinking across levels of biological heirarchy
++ it demonstrates whether students more commonly provide descriptions or explanations, and what level of biological explanation they address -- giving us insight into potentially undertaught aspects but also the connections between the levels of biological heirarchy
++ it also has utility is a teaching tool: educators can explicitly teach each component of the grid and guide students as they work through plausible explanations for each portion, helping the students also draw connections between the various components
 
-## validity evidence
+## validity and reliability evidence
 
-## interrater reliability
+## the pattern you discovered and implications
 
-## the pattern you discovered
-
++ DISCUSS DEMOGRAPHICS OF STUDENTS AND COURSESs
 + show the overall distribution, then the distribution split up by all these other factors.
 + talk about the statistics you used to compare the distributions and how nothing was significant
-
-## the implications of this pattern
+maybe just say that you're going to show the overall pattern, but you split it up in 1000 ways and no distribution differed significantly from the overall
 
 + doesn't seem to matter where kids went to high school or how many credits they have or whatever
 + do acknowledge you don't have demographic data/evolution acceptance or understanding, but that this pattern seems really consistent across a very diverse student body
-+ tie pattern into the current literature on fractured nature of bio edu and focus on proximate
-
-## how this framework can be used as a teaching tool
-
-+ explicitly teach students about each componenet of the grid
-+ maybe pull out another example question so that students can work through plausible explanations for each portion
-+ discuss as a class
++ tie pattern into the current literature on fractured nature of bio edu and focus on proximate -- also nehm's thing about forming coherent frameworks
 
 ## limitations/future work
 
 + gather other factors like demographics or understanding/acceptance of evolution 
++ semi-structured or structured interviews
 + repeat with instructional intervention
 
 
 ## conclusion/acknowledgements
 
-
-
-
-## title slide
-+ Hi everyone! My name is Lucy, and I'm a PhD candidate in Evolutionary Biology at University of Illinois at Chicago. 
-+ I'm excited to speak to you today about some of my recent work in biology education research
-+ Quite obviously, students' understanding of biological sciences is essential to their pursuit of biology-related degrees and careers
-+ But more than that, a robust understanding of biological concepts can foster empathetic and engaged members of our global community that value the natural world and our connection to it
-
-## biology has a problem
-
-+ So, human fascination with the diversity of living creatures -- including pondering questions like 'where do all these creatures come from?' and 'what does it even mean to be alive?' -- transcends cultures and disciplines and eras and is a fundamental part of the human experience
-+ All that being said, this fascination does not always transcend students' boredom in the classroom
-+ first, biology can feel like memorization when its presented, as it often is, as facts and examples devoid of connection, and each course is siloed as if it's an entirely separate discipline
-+ this presentation of piecemeal facts unrelated to everday experience is not especially motivating, when learning becomes more challenging
-
-## raw data demo
-
-## ADD BACK REAL DEMO!!
-
-+ Unfortunately I don't have time to illustrate this with a real demonstration so you'll have to take my word for it
-+ but studies have shown that if I were to show you these letters and give you 20 seconds to memorize them in the order they appear, it's very unlikely that you could
-+ however, if i show you the same letters organized like this --> now memorizing them in twenty seconds would be easy
-+ why is it so much easier this way?
-+ Well, because remember concepts is far easier than remembering raw data!!
-+ this way you aren't remembering the letters as all, you were remembering the concept behind those letters as hooks to latch the letters in your mind
-+ so when we present students with facts and examples without the meat of conceptual understanding behind it, or "good hooks", we are essentially asking them to memorize raw data
-
-## swan slide
-
-+ Here evolutionary theory becomes essential, because evoltionary theory IS the concept behind the raw data
-+ It's the _reason_ why prokaryotic and eukaryotic cells are different, and the _reason_ there are the enormous diversity of forms and features we observe today on earth
-
-
-# ADD BACK EVOLUTION MOUNTAIN!!! 
-
-## bison slide
-
-+ But thinking about evolutionary theory and big picture biology involves some special cognitive abilities
-+ Biology is a historical science: in a very real sense, organisms are all a product of historical processes that can be traced back billions of years
-+ So here, we must first be able to distinguish an observed pattern from whatever historical processes that may be responsible for it
-+ But also, we must be able to distinguish between proximate (or functional) and ultimate (or evolutionary) causes for observed patterns and their generating processes
-
-## study design
-
-+ Problematically, decades of literature demonstrates that students hold tenacious misconceptions about the process of natural selection
-+ So to more-closely examine the logic underlying students' reasoning, I administered an assignment with five open-ended questions across four biology courses
-+ Students had two weeks to answer; they were encouraged to use and cite resources to support their claims
-+ They did this once at the beginning of the semester and once at the end
-
-## tinbergen framework
-
-+ I coded student responses based on a framework adapted from Tinbergen's four questions
-+ This was organized into a grid by Nesse, which I then modified slightly --> each portion of the grid contains an appropriate cause for a phenomenon
-+ I'm going to talk through a sample assignment question and _correct_ responses for each cause --> read question
-+ We'll start here with the proximate or individual level row: the material cause, all organisms are constructed differently, have different DNA; then the efficient cause, the individual-level processes that generate this observed variation like mutation, sexual reproduction or recombination 
-+ now the ultimate or species level row: the cause of form, organisms take advantage of the environment in different ways causing them to look different; and finally the evolutionary cause, the ultimate process responsible for that pattern biological trade-offs and environmental heterogeneity over large timescales
-+ And this evolutioinary cause is the level of explanation we hope to see from students following instruction
-
-## turtle
-
-+ so, we administered this assignment across four courses over two semesters, with over 600 student participatns
-+ what happened?
-
-## results
-
-## MAKE FIGURE THAT INCLUDES MORE DEMO INFORMATION!!!
-
-+ student responses largely fell into one of these categories
-+ sometimes they invoked one cause, sometimes two
-+ but the nature of the ultimate process explanation means that this was never paired with other causes
-
-+ Now, on the y-axis we have causes and on the x-axis the frequency they were invoked...
-+ here is the intitial distribution before instruction, and you can see that students largely invoke proximate processes, ultiamte patterns, or they pair these causes together
-+ And after instruction we're really hoping they start nailing this evolutionary cause
-+ But you can see, the distribution remains mostly unchanged: while individuals invoke varying causes, we see the same general pattern both before and after instruction, regardless of students' major, number of previous credits in biology, the course they were taking...
-
-+ So great, formal instruction is not helping -- but you may be wondering _how_ students are actually constructing these explanations
-
-## misconceptions
-
-## ADD BACK ACTUAL MISCONCEPTION SLIDE!!! WITH EXAMPLES!!!
-
-+ there's a bit of a debate in the education literature about the nature of misconceptions
-+ some suggest that misconceptions are deeply-held and stable alternative frameworks that are extremely resistent to formal training
-+ others suggest that actually misonceptions are dynamic and highly context-sensitive
-+ i would say that in this study, the shifting logic both within and between assignments provides more evidence for the latter -- dynamic and context-sensitive-- but that's a whole nother talk...
-+ in my own experience, apparent misconceptions are often the result of students "playing the classroom game", or in other words, the act of hoping to repeat the correct answer teacher said without understanding the underlying concepts
-
-## engaging with ideas
-
-## MAKE THIS MORE EDUCATION RESEARCH PEOPLE FOCUSED, NOT BIOLGIST FOCUSED!!!
-
-+ and it's a bit tricky to make sure that students are really getting those underlying concepts
-+ but a few things can help: one of the most important is fostering discussion and then engaging with students ideas -- not just to evaluate how close their words are to the appropriate words, but to really try and understand the _reasoning_ behind what they're saying
-+ it can help to start very small, with core concepts or "familiar schemas", which are like blueprints for things we experience in everyday life
-
-+ so take the simple and familiar schema of a coin flip --> for our purpose here, try to go back to when this was just a coin and not a locus with two alleles
-+ so this function simulates n number of coin flips and returns the frequency of heads and tails
-+ i'm going to fly through some quick-and-dirty examples here, starting with the process of genetic drift
-+ students have a hard time understanding what drift is and why its strength decreases as population size increases
-+ genetic drift, at its core, is simply a statistical consequence of finite sample sizes
-+ I ask students: if i flip a coin ten times, how many heads do i expect? 5. easy.
-+ Okay, if i flip in ten times, how many heads will i actually observe? here i get some crickets.
-+ i could get 5, or 7, or 3, and we wouldn't necessarily think my function was broken
-+ our sample size is just small, so we expect greater variance from our expectation in a single trial
-+ so i end up with 2 heads and 8 tails
-+ Now what if i increase my sample size?
-+ the more i increase my sample size, the closer i get to my expectation --> this is a window into the _reason_ why the strength of drift decreases as the population size increases
-
-+ now natural selection is a non-random process, so i've added a line here that allows me to alter the probability of observing heads
-+ so i flip my coin ten times again, but with a new probability of 52%
-+ and, i still get 50/50 because my sample size is small
-+ but, as i increase my sample size, we can see that i'm now consistenly observing a greater frequency of heads each time
-
-## expanding those ideas
-
-+ so for us biologists, this is just "one generation", so to speak, of coin flips, which are not inherited traits
-+ but by starting with small core concepts we can help students build a robust framework by consistently checking on on how they understand what's happening as we add more complexty
-+ next, what processes that leave disproportionate frequencies of one thing over the other may yield over hundreds or thousands of generations
-+ of course, unlike coin flips, these "things" are inherited in specific ways, without which these processes could not work
-+ then we can start to think about the interplay between stochastic processes like drift along side deterministic ones like selection
-+ and then, we can introduce the idea of mutation itself as a process
-
-## conclusion slide
-
-## REWORK THIS ONCE EVERYTHING IS IN PLACE!!
-
-+ the idea of educators or textbooks telling students what the "answer" is without discussing what _reasoning_ is necessary to believe one idea over the other is at odds with how science is actually done in real life
-+ so better biology education begins with educators moving away from focusing on "right answers", and bringing the focus to the _reasoning_ and information required to distinguish right answers from wrong ones
-+ it helps to deal in concepts and not in raw data
-+ we can use simple existing schemas to slowly build more complex ideas
-+ but most importantly, we must always stay focused on the substance of students' reasoning -- really working to understand why they think what they think -- and get away from the "classroom game" by making the classroom a place that reflects the real work of scientists in distinguishing right and wrong or good and bad ideas
-+ thanks so much for your time, please feel free to visit my GitHub page for more materials on this talk and associated references
-and i'm happy to take any questions!
-
-# notes
-
-try to link to the complaints that nehm makes in 2019: why you don't care for CIs, why you wanted a framework that cut across heirarchies and the importance of that kind of holistic reasoning
 
 
 
