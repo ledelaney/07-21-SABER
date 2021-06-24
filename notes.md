@@ -131,9 +131,11 @@ maybe just say that you're going to show the overall pattern, but you split it u
 + repeat with instructional intervention
 
 
-## conclusion/acknowledgements
+## acknowledgements
 
-
++ this work is unfunded, so i appreciate the educators that allowed me to use their courses and the students that participated
++ my advisor joel brown for always encouraging me to follow my heart
++ and drs. sbeglia and nehm from stony brook for their valuable guidance
 
 
 
