@@ -75,6 +75,10 @@ Sweating occurs because ...
 + Moreover, the observed patterns of evaporative heat-loss mechanisms in mammals – and the enormous variation in these mechanisms like panting, sweating, and various kinds of sweat glands – provides valuable fodder for examining the evolutionary mechanisms influencing thermoregulation in mammalian organisms. 
 + which is to say, the observation that the body eliminates excess heat through sweating is not only correct, but an important step in understanding the trait itself and its possible adaptive significance.
 
++ MENTION THAT THEY BRING THIS UP IN A SUBSEQUENT PAPER!!
+The term ontological teleology refers to the assumption that functional structures and mechanisms exist due to their functionality VERSUS
+Notably, conceptualizing structures and mechanisms in terms of their ends does not explain biological structures and mechanisms in terms of their causes but identifies5 them in terms of their effects
+
 ## discuss the construction of your new framework
 
 + Niko Tinbergen, leaning on Aristotle, formalized four questions that he argued were all necessary for fully explaining a given trait or adaptation
