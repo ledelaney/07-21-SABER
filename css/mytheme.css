@@ -150,7 +150,7 @@ line-height: normal;
 
 
 
-/* slide one: biology education got problems */
+/* slide one: introduction */
 
 .bg_sunflower {
   position: relative;
@@ -178,72 +178,136 @@ line-height: normal;
   top: -20px;
 }
 
+/* slide two: evolution mountain */
 
+.bg_01mt {    
+  background-image: url('images/figs/01-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
 
-/* slide two: raw data memorization demo */
+.bg_02mt {    
+  background-image: url('images/figs/02-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
 
-.bg_lobster {
+.bg_03mt {    
+  background-image: url('images/figs/03-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
+
+.bg_04mt {    
+  background-image: url('images/figs/04-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
+
+.bg_05mt {    
+  background-image: url('images/figs/05-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
+.bg_06mt {    
+  background-image: url('images/figs/06-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
+.bg_07mt {    
+  background-image: url('images/figs/07-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
+.bg_08mt {    
+  background-image: url('images/figs/08-mountain.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1.1;
+}
+
+/* slide three: proximate and ultimate causality */
+
+.bg_gorg {
   position: relative;
   z-index: 1;
-  background-color: #F6F5F0;
 }
 
-.bg_lobster::before {    
+.bg_gorg::before {    
       content: "";
-      background-image: url('images/bg/lobster.jpg');
+      background-image: url('images/bg/gorgonia.jpg');
       background-size: contain;
       background-repeat: no-repeat;
-      background-color: #F6F5F0;
       position: absolute;
-      top: 320px;
-      right: 0px;
-      bottom: 0px;
-      left: 40px;
-      opacity: 1;
-      z-index: -1;
-}
-
-
-
-/* slide three: dobzhansky was right */
-
-.bg_swan {
-  position: relative;
-  z-index: 1;
-  background-color: #EFEDE6;
-}
-
-.bg_swan::before {    
-      content: "";
-      background-image: url('images/bg/swan.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #EFEDE6;
-      position: absolute;
-      top: 45px;
+      top: 0px;
       right: 0px;
       bottom: 0px;
       left: 0px;
-      opacity: 1;
+      opacity: 0.3;
       z-index: -1;
 }
 
-.bg_swan h2 {
-  position: absolute;
-  top: 390px;
-  width: 40%;
-  left: 515px;
+
+/* slide four: kampourakis typology */
+
+.bg_peacock {
+  position: relative;
+  z-index: 1;
 }
 
-.swantext {
-  position: absolute;
-  top: 500px;
-  left: 570px;
+.bg_peacock::before {    
+      content: "";
+      background-image: url('images/bg/koson-peacock.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.3;
+      z-index: -1;
 }
 
-
-
-/* slide four: biology is a(n) historical science */
+/* slide five: legitimate teleology */
 
 .bg_bison {
   position: relative;
@@ -273,9 +337,7 @@ line-height: normal;
   width: 65%;
 }
 
-
-
-/* slide five: study design */
+/* slide six: ultimate pattern utility */
 
 .bg_bat {
   position: relative;
@@ -286,74 +348,19 @@ line-height: normal;
 .bg_bat::before {    
       content: "";
       background-image: url('images/bg/bat.jpg');
-      background-size: contain;
+      background-size: 600px;
       background-repeat: no-repeat;
       background-color: #F7F7F6;
       position: absolute;
-      top: 100px;
+      top: 350px;
       right: 0px;
       bottom: 0px;
-      left: 220px;
-      opacity: 0.8;
-      z-index: -1;
-}
-
-
-/* slide six: tinbergen's four questions framework */
-
-.bg_brain {
-  position: relative;
-  z-index: 1;
-  background-color: #F3F1EB;
-}
-
-.bg_brain::before {    
-  content: "";
-  background-image: url('images/bg/brain.jpg');
-  background-size: cover;
-  background-repeat: repeat;
-  background-color: #F3F1EB;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.2;
-  z-index: -1;
-}
-
-
-/* slide seven: so what happened? */
-
-.bg_turtle {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F5F1;
-}
-
-.bg_turtle::before {    
-      content: "";
-      background-image: url('images/bg/turtle.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F6F5F1;
-      position: absolute;
-      top: 60px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
+      left: 430px;
       opacity: 0.9;
       z-index: -1;
 }
 
-.turtletext{
-  position: absolute;
-  top: 130px;
-  left: 550px;
-}
-
-
-/* slide eight: results */
+/* slide seven: developing questions */
 
 .bg_fish {
   position: relative;
@@ -362,32 +369,31 @@ line-height: normal;
 }
 
 .bg_fish::before {    
-      content: "";
-      background-image: url('images/bg/fish.jpg');
-      background-size: 400px;
-      background-repeat: no-repeat;
-      background-color: #F9F9F7;
-      position: absolute;
-      top: 450px;
-      right: 0px;
-      bottom: 0px;
-      left: 430px;
-      opacity: 0.9;
-      z-index: -1;
+  content: "";
+  background-image: url('images/bg/fish.jpg');
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-color: #F9F9F7;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.9;
+  z-index: -1;
 }
 
 .bg_fish h2 {
-  position: relative;
-  top: 200px;
-  width: 55%;
-  right: 70px;
-  text-align: left;
-  line-height: normal;
+position: relative;
+top: 200px;
+width: 55%;
+right: 70px;
+text-align: left;
+line-height: normal;
 
 }
 
-
-/* slide nine: who's afraid of misconceptions? */
+/* slide eight: personal digression */
 
 .bg_sting {
   position: relative;
@@ -418,38 +424,55 @@ line-height: normal;
 }
 
 
-/* slide ten: coin demo */
+/* slide nine: gap in literature */
 
-.bg_3birds {
+.bg_lobster {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F5F0;
+}
+
+.bg_lobster::before {    
+      content: "";
+      background-image: url('images/bg/lobster.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F6F5F0;
+      position: absolute;
+      top: 320px;
+      right: 0px;
+      bottom: 0px;
+      left: 40px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+/* slide ten: propose the framework */
+
+.bg_brain {
   position: relative;
   z-index: 1;
   background-color: #F3F1EB;
 }
 
-.bg_3birds::before {    
+.bg_brain::before {    
   content: "";
-  background-image: url('images/bg/three-birds.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-image: url('images/bg/brain.jpg');
+  background-size: cover;
+  background-repeat: repeat;
   background-color: #F3F1EB;
   position: absolute;
-  top: 30px;
+  top: 0px;
   right: 0px;
   bottom: 0px;
   left: 0px;
-  opacity: 1;
+  opacity: 0.2;
   z-index: -1;
 }
 
-.birdtext{
-  position: relative;
-  bottom: 85px;
-  left: 70px;
 
-}
-
-
-/* slide eleven: building blocks */
+/* slide eleven: validity and reliability */
 
 .bg_leaves {
   position: relative;
@@ -480,7 +503,37 @@ line-height: normal;
   left: 250px;
 }
 
+/* slide twelve: pattern you discovered  */
 
+/* slide thirteen: limitations and future work */
+
+.bg_3birds {
+  position: relative;
+  z-index: 1;
+  background-color: #F3F1EB;
+}
+
+.bg_3birds::before {    
+  content: "";
+  background-image: url('images/bg/three-birds.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #F3F1EB;
+  position: absolute;
+  top: 30px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.birdtext{
+  position: relative;
+  bottom: 85px;
+  left: 70px;
+
+}
 
 /* conclusion slide */
 
@@ -526,6 +579,72 @@ line-height: normal;
 .lotusthanks{
   background-color: rgb(218, 174, 169);
   width: fit-content;
+}
+
+
+
+/* TWO MAYBES FOR SLIDES */
+
+.bg_swan {
+  position: relative;
+  z-index: 1;
+  background-color: #EFEDE6;
+}
+
+.bg_swan::before {    
+      content: "";
+      background-image: url('images/bg/swan.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #EFEDE6;
+      position: absolute;
+      top: 45px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.bg_swan h2 {
+  position: absolute;
+  top: 390px;
+  width: 40%;
+  left: 515px;
+}
+
+.swantext {
+  position: absolute;
+  top: 500px;
+  left: 570px;
+}
+
+
+.bg_turtle {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F5F1;
+}
+
+.bg_turtle::before {    
+      content: "";
+      background-image: url('images/bg/turtle.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F6F5F1;
+      position: absolute;
+      top: 60px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.9;
+      z-index: -1;
+}
+
+.turtletext{
+  position: absolute;
+  top: 130px;
+  left: 550px;
 }
 
 
