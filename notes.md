@@ -2,27 +2,29 @@
 
 ## title slide
 
-+ Good afternoon, I'm really glad to be here today and excited to share the results from my first project in BER.
++ Hi everyone, I'm really glad to be here today and I'm excited to share the results from my first biology education project.
 + This talk is very different than the talk that I intended on giving when I submitted an abstract to SABER this year
-+ So I'll also be sharing with you a little bit about the history of this work and my own personal journey in BER -- especially if there are other students here today that are considering work in BER with relatively little instutional support
++ So for some context, I'll also be sharing with you a little bit about the history of this work and my own personal journey in BER
+
+## Introduction
 + I started my PhD in ecology and evolution with the intention of becoming a research scientist, and it was halfway through my thesis that I realized that my real passion and interest was in the field of education
 + Somehow I managed to convince my core PhD committee to let me change the direction of my thesis even though none of them had experience in BER, and I added a chemistry education researcher to the team who, at the time, was the closest thing to someone with expertise in BER at my institution
-+ I knew that I was interested in how students develop conceptual frameworks in evolutionary biology
-+ As evolution is the light that illuminates the discipline of biology, it is essential that our students can both understand evolution and also integrate that knowledge to other aspects of the field
++ I knew very little about education research, but I knew that I was interested in how students develop conceptual frameworks in evolutionary biology
++ As evolution is the light that illuminates the discipline of biology, it is essential that our students can understand it -- but doing so requires integrating knowledge from many levels of biological heirarchy
 
-## evolution mountain?
-
+## Evolution Mountain
 + a large body of work has demonstrated that a coherent framework of evolutionary biology that allows for deep conceptual understanding of evolutionary concepts does not come easily
++ there are, of course, important social issues related to religion and personal conflict with evolutionary theory -- but today I'm going to focus on conceptual issues
 + first, we all need to speak the same words
-+ then we need to use those words to understand basic biological processes like DNA replication
++ then we need to use those words to understand individual-level biological processes like DNA replication
 + then we can bring in the idea of ecology along with environmental processes that influence organisms
-+ we must start thinking about randomness, probability, and timescale -- what these biological and environmental processes may yield over large timescales
++ we must start thinking about randomness, probability, and timescale -- what these biological and environmental processes may yield over large amounts of time FIX
 + now we are about ready to bring in selection and drift, or stochastic and deterministic evolutionary processes,
 + we must learn to distinguish a pattern from the process that generates that pattern
-+ and lastly, as mayr famously notes, there are both functional (or proximate) and ultiamte (or evolutionary) causes for any given biological phenomena -- but today i will focus specifically on the concept of adaptation
++ and lastly, as mayr famously notes, there are both functional (or proximate) and evolutionary (or ultimate) causes for any given biological phenomena 
++ and today i will focus specifically on the concept of adaptation
 
 ## proximate and ultimate causality: explanation
-
 + take, for instance, the question of why wood exists
 + on a functional or proximate-level, wood exists because of secondary growth caused by cell division in the vascular cambium 
 + but there is another explanation for the repeated evolution of wood: inter- and intra-specific competition for light over time
@@ -30,115 +32,112 @@
 + so, a full understanding of a given trait or adaptation requires that students can reason at both levels of biological explanation
 
 ## kampourakis typology
-
 + however, proposing possible explanations for a given phenomena at _any_ level, whether proximate or ultimate, requires first distinguishing an observable pattern
-+ a pattern can be thought of as a description of _what_ has taken place, while a process may be thought of as a causal mechanistic explanation responsible for the existence of whatever has taken place
-+ Kampourakis & Niebert propose a typology of biological explanation that addresses the various descriptions and explanations appropriate for various levels of biological heirarchy, reproduced here...
-+ the typology distinguishes between two levels of description: what there is (so here, a flying bird), and what functional explanation is appropriate for it (muscles connected to bone). 
-+ There are then three possible levels of explanation: proximate causes ( physiological explanations appropriate for individual organisms), ultimate causes (historical explanations related to selective pressures over time), and teleological causes (which describe motives or aims of organisms).
-+ teleological explanations are generally incorrect, and use the function or design of a trait, or the personal motivations of the organism, to explain the trait's existence
++ a pattern can be thought of as a description of _what_ has taken place, while a process may be thought of as a causal mechanistic explanation of _why_ that thing has taken place
++ this typology [cite: from here, in here] addresses the descriptions and explanations appropriate for various levels of biological heirarchy
++ it distinguishes between two levels of description: what there is (so here, a tree), and the functional description of what there is (here, increased access to light). 
++ There are then three possible levels of explanation: physiological explanations appropriate for individual organisms (proximate causes),historical explanations related to selective pressures over time (ultimate causes), and causes which describe the motives or aims of organisms (teleological causes).
++ teleological causes are incorrect, and use the function or design of a trait, or the personal motivations of the organism, to explain the trait's existence -- and they are often lamarckian in flavor
++ like, trees have wood because they developed it to thrive in their environment
 
-## the problem
-
-+ this typology provides enormous utility in understanding the various levels of description and explanation possible in biological sciences, but there are two key points this typology does not address:
-
-1. there is a _relationship_ between patterns and processes at various levels, and
-2. there are legitimate teleological descriptions in the study of adaptation
-
-## pattern-process relationship (keep numbered points at top)
-
-+ let's return to the question of why wood exists
-+ the proximate and ultimate processes responsible for the existence of wood also, of course, produce observable patterns
-+ Woody tissue exists both because there are trees, and because trees, like all organisms, must adapt to their environment to survive
-+ so, there is an observable pattern at both the proximate and ultimate level -- that trees exist, and that wood has evolved more than once across different groups of plants
-+ these patterns or descriptions are what allow scientists to investigate the action of evolutionary processes over time
-
-## legitimate teleological description
-
-+ another feature of ultimate patterns is that while they cannot serve as _explanations_, they serve as a kind of legitimate teleological description
-+ examining the current distribution of traits across groups of organisms can provide insight into the kinds of selective pressures responsible for the maintenance of such traits across macroevolutionary timescales
-+ and actually much of the current work of evolutionary biology involves determining the observed pattern of a trait across a phylogeny, and then using computational modeling tools to infer what processes produced that observed pattern
-
-## studies on explanation versus description
-
-+ an enormous body of work has examined student construction of causal or mechanistic explanations, but relatively few studies examine the extent to which students provide descriptions in the place of explanations
-+ Riemeier finds that only 41% of interviewed students are able to provide causal explanations for biological phenomena when asked to do so, while the remainder provide descriptions
-+ However, an interesting feature of some teleological explanations is that, while they are insufficient as explanations, as descriptions, they are often correct. 
+## legitimiate teleology
++ but as a few recent papers have pointed out, teleological reasoning can come in two broad categories:
++ using the current function of a trait to justify the trait’s existence (not legitimate), or using the current function of the trait as a clue about the possible selective pressures influencing the development of the trait over time (legitimate)
++ Kampourakis refers to these concepts as "design teleology" and "selective teleology"
++ so as a causal mechanistic _process_ teleological explanations are largely illegimate, but as a functional description or _pattern_ they are often correct
 + Take for instance these two statements from a study examining student preference for teleological explanations
 
 Sweating occurs because ...
-1. ...inthisway,thebodycaneliminateexcessheat(teleological).
-2. ...themusclesthatsurroundthesweatglandscontract(causal).
+1. ...in this way,the body can eliminate excess heat (teleological).
+2. ...the muscles that surround the sweat glands contract (causal).
 
 + The first, as a causal explanation, is obviously incorrect. 
 + However, as a statement of biological description, it is indeed true that the body eliminates excess heat via persperation. 
-+ Moreover, the observed patterns of evaporative heat-loss mechanisms in mammals – and the enormous variation in these mechanisms like panting, sweating, and various kinds of sweat glands – provides valuable fodder for examining the evolutionary mechanisms influencing thermoregulation in mammalian organisms. 
-+ which is to say, the observation that the body eliminates excess heat through sweating is not only correct, but an important step in understanding the trait itself and its possible adaptive significance.
++ Moreover, the observed patterns of evaporative heat-loss mechanisms in mammals – and the enormous variation in these mechanisms – provides valuable fodder for examining the historical evolutionary processes influencing thermoregulation in mammalian organisms. 
++ so the observation that the body eliminates excess heat through sweating is not only correct, but an important step in understanding the trait itself and its possible adaptive significance.
++ and actually much of the current work of evolutionary biology including my own involves determining the observed pattern of a trait across a phylogeny, and then using computational modeling tools to infer what processes may have produced that observed pattern
 
-+ MENTION THAT THEY BRING THIS UP IN A SUBSEQUENT PAPER!!
-The term ontological teleology refers to the assumption that functional structures and mechanisms exist due to their functionality VERSUS
-Notably, conceptualizing structures and mechanisms in terms of their ends does not explain biological structures and mechanisms in terms of their causes but identifies5 them in terms of their effects
+## ultimate pattern utility
 
-## discuss the construction of your new framework
-
++ so really, reasoning related to the possible adaptive significance of a trait may be thought of as identifying the "ultimate pattern"
++ this makes sense, because an adaptation itself is actually just a pattern, while natural selection is the process responsible for it
++ with that in mind, let's return again to the question of why wood exists
++ the proximate and ultimate processes responsible for the existence of wood also, of course, produce observable patterns
++ Woody tissue exists both because there are trees, and because trees, like all organisms, must adapt to their environment to survive
++ so, there is an observable pattern at both the proximate and ultimate level -- that trees exist, and that trees use wood as a means to gain greater access to light
++ these patterns or descriptions are what allow scientists to investigate the action of evolutionary processes over time
 + Niko Tinbergen, leaning on Aristotle, formalized four questions that he argued were all necessary for fully explaining a given trait or adaptation
-+ there are developmental and mechanistic explanations relating to individual organisms, and phylogenetic and adaptive explanations relating to groups of organisms or species. 
-+ These questions were organized into a grid by Nesse (2013), providing enormous utility as an explanatory framework by addressing both proximate and ultimate causality, along with corresponding proximate and ultimate patterns necessary for making inferences about their generating processes.
-+ this grid is valuable in that it organizes the levels of biological description and explanation into a very clear framework
++ These questions were organized into a similar grid by Nesse (2013), providing enormous utility as an explanatory framework by addressing both proximate and ultimate causality, along with corresponding proximate and ultimate patterns necessary for making inferences
++ this grid is valuable in that it organizes the levels of biological description and explanation into a very clear framework -- understanding an adaptation then is simply the ability to understand and integrate all four quadrants of this grid
 
 ## developing the questions
-
 + now, when I first planned my BER project I wasn't exactly sure where I wanted to go
-+ I wanted to ask layered questions about adaptation, but it was not clear to me what framework I should use to analyze student responses given that I wasn't necessarily interested in students' non-normative ideas perse, but the logic behind their reasoning
++ I wanted to ask layered questions about adaptation, but it was not clear to me what framework I should use to analyze student responses given that I wasn't necessarily interested in students' non-normative ideas, but the logic behind their reasoning
 + so first, I developed 15 open-ended questions and did a pilot version during the summer semester
 + the most striking feature of student answers was that, while non-normative ideas were common, in general many answers weren't exactly... wrong
-+ for example, I asked students why cave fish -- regardless of the species of fish -- eventually lose their eyesight
-+ Many correctly noted that eyes are energetically costly in an environment where they are not used (ultimate pattern), some discussed a mutation occurring in an individual fish without explaining how that mutation may spread across the population -- rarely, some students were able to put these two concepts together to describe an evolutionary process
++ for example, I asked why cave fish -- regardless of the species of fish -- eventually lose their eyesight
++ Many correctly noted that eyes are energetically costly in an environment where they are not used (ultimate pattern), some discussed a mutation occurring in an individual fish without explaining how that mutation may spread across the population -- rarely, some students were able to put these two concepts together to describe a historical evolutionary process
 + in this way the data really spoke to me: I realized that students were simply addressing various levels of explanation or description across the tinbergen framework
 
 ## digress about the intentions of your framework
 
-+ I then developed a set of ten questions about different kinds of adaptation -- emergent features like species ranges, trait loss, trait gain, or even constraints -- in various organisms, and I collected data across the Fall and Spring semester
-+ I ended up with just under 600 participants across four biology courses from introductory to advanced
++ I developed a set of ten questions about different kinds of adaptation -- emergent features like species ranges, trait loss, trait gain, or even constraints -- in various organisms 
++ I used this questionaire in four biology courses from introductory to advanced, both before and after instruction
++ I ended up with just under 600 participants from the Fall and Spring semesters
 + I used my new framework to code student responses in an effort to... well, and that's the thing: what exactly was I trying to do? What question was I trying to answer?
 + I had a lot of data, and I discovered, I think, an interesting pattern
 + But I myself had gotten lost in the details of my own work
-+ This became especially clear to me after my submitted abstract for this talk I am giving right now was rejected, and reviewer 2 (why is it always reviewer 2??) made some very prescient critiques that I could not ignore.
-+ Around the time I found out that I would actually be giving my originally-rejected talk today at SABER, I also discovered that the talk I submitted to the Annual Evolution conference would be presented beside an intimidating group of biology education researchers
-+ Honestly, I wanted to crawl under a rock. We don't always talk about how challenging it can be to share work at professional conferences -- certainly for someone like me that struggles with anxiety -- but also for those of us that may be entirely new in a field of study.
-+ but, I ended up getting very lucky that Gena Sbeglia from Ross Nehm's lab at Stony Brook graciously chatted with me for a long time after my talk at the Conference, and helped me find some clarity when I was lost in the weeds
-+ because what i thought i was doing was developing an assessment that could tell us something about student understanding of evolution
++ This became especially clear to me after my submitted abstract for this talk I am giving right now was rejected -- around the same time I discovered that the talk I submitted to the Annual Evolution conference would be presented beside an intimidating group of biology education researchers
++ Honestly, I wanted to crawl under a rock. We don't always talk about how challenging it can be to share work at professional conferences -- certainly for an introvert like me that struggles with anxiety -- but also when youre the foeld
++ but I ended up getting very lucky that Gena Sbeglia from Ross Nehm's lab at Stony Brook graciously chatted with me for a long time after my talk at the Conference, and helped me find some clarity when I was lost in the weeds
 
-## discuss the proposal of your framework as a tool
+## Gap in literature
++ so after some careful reading I discovered an interesting gap: while an enormous body of work has examined student construction of causal or mechanistic explanations, very few empircal studies examine the extent to which students more commonly provide descriptions or explanations in response to questions that contain answers at varying levels of biological heirarchy.
++ actually to the best of my knowledge, only one study explicitly examines this
++ Riemeier interviewed ten secondary school students with questions aimed at causal explanation and found that 59% of responses were functional descriptions (so ultimate pattern) rather than causal explanations, and that the most frequently generated explanations were teleological
 
-+ but indeed what i am actually here to do today is to propose this framework as a tool for systematically assessing student thinking across levels of biological heirarchy
-+ it demonstrates whether students more commonly provide descriptions or explanations, and what level of biological explanation they address -- giving us insight into potentially undertaught aspects but also the connections between the levels of biological heirarchy
-+ it also has utility is a teaching tool: educators can explicitly teach each component of the grid and guide students as they work through plausible explanations for each portion, helping the students also draw connections between the various components
+## Propose the framework
++ so what i am actually here to do today is to propose this framework as a tool for systematically assessing student thinking across levels of biological heirarchy
++ it accounts for all possible descriptions and explanations and their relationships, and it also accounts for legitimate teleological reasoning
++ it can be used to assess whether students more commonly provide descriptions or explanations, and what level of biological reasoning they commonly address -- giving us insight into potentially undertaught aspects and how those aspects may be integrated in our teaching
 
 ## validity and reliability evidence
 
++ OF the six types of validity evidence outlined in AERA, I focused on two:
+(a) Content-Oriented Evidence *
+(b) Evidence Regarding Cognitive Processes *
++ For both, I collated and analyzed empirical studies -- related to causal explanations in the content domain of adaptation AND the cognitive psychology behind scientific explanation and also the epistemelogical nature of explanation 
++ I used this literature as a guide to develop a series of open-ended "why" questions about various forms of adaptation
++ I also assembled a panel of evolutionary biologists and educators to vet those questions
++ I then analyzed student responses from a summer pilot study, as well as in the fall semester, and altered questions that the majority of students misinterpreted
++ I coded all the questions, but I also chose a random sample of twenty answers that were coded by three other people
++ CITE STATISTIC
+
 ## the pattern you discovered and implications
-
-+ DISCUSS DEMOGRAPHICS OF STUDENTS AND COURSESs
-+ show the overall distribution, then the distribution split up by all these other factors.
-+ talk about the statistics you used to compare the distributions and how nothing was significant
-maybe just say that you're going to show the overall pattern, but you split it up in 1000 ways and no distribution differed significantly from the overall
-
-+ doesn't seem to matter where kids went to high school or how many credits they have or whatever
-+ do acknowledge you don't have demographic data/evolution acceptance or understanding, but that this pattern seems really consistent across a very diverse student body
-+ tie pattern into the current literature on fractured nature of bio edu and focus on proximate -- also nehm's thing about forming coherent frameworks
++ In addition to the questionnaire, I also gathered details on students' major, and the number of previously earned credits in biology
++ Student responses fell into one of these categories: sometimes they invoked one cause, sometimes two -- when they invoked the evolutionary cause they did not pair this with other causes
++ So before I show you the overall distribution of explanations and descriptions, I'll tell you that the overall pattern has no significant statistical difference from the pattern observed when the data is split up by major, by course, or by number of earned credits.
++ That is, this pattern appears largely consistent -- there are some subtle but not statistically significant differences between questions, but that's a different talk
++ So here is response one, before instruction
++ And here is response two, after instruction. 
++ There is also no significant statistical difference between the patterns observed in response one or response two -- again, no matter how the data is split up
++ I find a very similar result to Remier, which is that XX percent of students provide ultimate patterns or functional descriptions when asked to provide causal explanations
++ Of these, approximately half invoke illegitimate teleological reasoning
 
 ## limitations/future work
++ So, I do have some high school data: students come from a from a diverse swath of the chicago-land area and it doesn't seem to matter where they went to high school or how many credits they have in biology or what their major is -- so the observed pattern does seem consistent across a diverse group of students
++ Going forward, I would also gather other demographic data on the student population, as well as use validated tools to assess understanding and acceptance of evolution in tandem with the questionnaire
++ I also would interview a group of participants to more carefully examine how they are interpreting the questions
++ And lastly, I eventually want to repeat this study with an instructional intervention where we explicitly teach students each component of the grid and how those components are interrelated
 
-+ gather other factors like demographics or understanding/acceptance of evolution 
-+ semi-structured or structured interviews
-+ repeat with instructional intervention
+## conclusion/acknowledgements
++ So, while a large body of work examines student causal explanations, there is limited empircal data evaluating the extent to which students provide descriptions in the place of explanations when asked causal questions -- the results here and from remmieler suggest they most commonly provide functional descriptions
++ The results from my study also corroborate a large body of work that demonstrates students propensity for teleological reasoning, but here I distinguish between appropriate and inappropriate forms of teleological reasoning, showing that many students actually use teleological reasoning appropriately
++ Lastly, I propose organizing levels of biological description and explanation into a clear framework that has utility both as a means of systematically assessing student thinking, but also as a possible teaching tool.
 
-
-## acknowledgements
 
 + this work is unfunded, so i appreciate the educators that allowed me to use their courses and the students that participated
-+ my advisor joel brown for always encouraging me to follow my heart
++ my advisor joel brown for always encouraging me to follow my dreams
 + and drs. sbeglia and nehm from stony brook for their valuable guidance
 
 
