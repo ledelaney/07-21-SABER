@@ -282,7 +282,7 @@ line-height: normal;
       right: 0px;
       bottom: 0px;
       left: 0px;
-      opacity: 0.3;
+      opacity: 0.2;
       z-index: -1;
 }
 
@@ -708,7 +708,7 @@ hr {
 /*-- Footnote --*/
 .footnote-light {
   position: absolute;
-  bottom: 0.2em;
+  bottom: 0%;
   left: 1em;
   font-size: 65%;
   line-height: 1.3em;
@@ -777,17 +777,18 @@ pre code {
 }
 
 th {
-  font-size: 20px;
+  font-size: 22px;
   line-height: normal;
   text-align: right;
 
   
 }
 
+
 td {
   text-align: right;
   padding-left: 5em;
-  padding-bottom: 1em;
+  padding-bottom: 0.7em;
 }
 
 
@@ -839,4 +840,4 @@ blockquote {
 .red        { color:   #DA291C }
 .warmyellow { color:   #FFB81C }
 .gold       { color:   #b0a402;}
-.opaque		{ opacity: 0}
+#opacity		{ opacity: 0}
