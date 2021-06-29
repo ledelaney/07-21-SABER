@@ -332,7 +332,7 @@ line-height: normal;
 
 .bisontext {
   position: absolute;
-  top: 320px;
+  top: 340px;
   left: 200px;
   width: 65%;
 }
@@ -385,8 +385,8 @@ line-height: normal;
 
 .bg_fish h2 {
 position: relative;
-top: 200px;
-width: 55%;
+top: 240px;
+width: 40%;
 right: 70px;
 text-align: left;
 line-height: normal;
@@ -417,9 +417,9 @@ line-height: normal;
 }
 
 .bg_sting h2 {
-  position: relative;
-  top: 130px;
-  left: 480px;
+  position: absolute;
+  top: 25%;
+  right: 5%;
   width: 35%;
 }
 
@@ -783,8 +783,6 @@ th {
 
   
 }
-
-
 td {
   text-align: right;
   padding-left: 5em;
@@ -840,4 +838,5 @@ blockquote {
 .red        { color:   #DA291C }
 .warmyellow { color:   #FFB81C }
 .gold       { color:   #b0a402;}
+.white      { color: white;}
 #opacity		{ opacity: 0}

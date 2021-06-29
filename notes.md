@@ -14,7 +14,7 @@
 
 ## Evolution Mountain
 + a large body of work has demonstrated that a coherent framework of evolutionary biology that allows for deep conceptual understanding of evolutionary concepts does not come easily
-+ there are, of course, important social issues related to religion and personal conflict with evolutionary theory -- but today I'm going to focus on conceptual issues broad overview
++ there are, of course, important social issues related to religion and personal conflict with evolutionary theory -- but today I'm going to focus on conceptual issues (broad overview)
 + first, we all need to speak the same words
 + then we need to use those words to understand individual-level biological processes like DNA replication
 + then we can bring in the idea of ecology along with environmental processes that influence organisms
@@ -40,7 +40,7 @@
 + teleological causes are incorrect, and use the function or design of a trait, or the personal motivations of the organism, to explain the trait's existence -- and they are often lamarckian in flavor
 + like, trees have wood because they developed it to thrive in their environment
 
-## bison -- legitimiate teleology
+## 5 bison -- legitimiate teleology
 + but as a few recent papers have pointed out, teleological reasoning can come in two broad categories:
 + using the current function of a trait to justify the trait’s existence (not legitimate), or using the current function of the trait as a clue about the possible selective pressures influencing the development of the trait over time (legitimate)
 + Kampourakis refers to these concepts as "design teleology" and "selective teleology"
@@ -57,10 +57,10 @@ Sweating occurs because ...
 + so the observation that the body eliminates excess heat through sweating is not only correct, but an important step in understanding the trait itself and its possible adaptive significance.
 + and actually much of the current work of evolutionary biology including my own involves determining the observed pattern of a trait across a phylogeny, and then using computational modeling tools to infer what processes may have produced that observed pattern
 
-## bat -- ultimate pattern utility
+## 6 bat -- ultimate pattern utility
 
 + so really, reasoning related to the possible adaptive significance of a trait may be thought of as identifying the "ultimate pattern"
-+ this makes sense, because an adaptation itself is actually just a pattern, while natural selection is the process responsible for it
+<!-- + this makes sense, because an adaptation itself is actually just a pattern, while natural selection is the process responsible for it -->
 + with that in mind, let's return again to the question of why wood exists
 + the proximate and ultimate processes responsible for the existence of wood also, of course, produce observable patterns
 + Woody tissue exists both because there are trees, and because trees, like all organisms, must adapt to their environment to survive
@@ -70,7 +70,7 @@ Sweating occurs because ...
 + These questions were organized into a similar grid by Nesse (2013), providing enormous utility as an explanatory framework by addressing both proximate and ultimate causality, along with corresponding proximate and ultimate patterns necessary for making inferences
 + this grid is valuable in that it organizes the levels of biological description and explanation into a very clear framework -- understanding an adaptation then is simply the ability to understand and integrate all four quadrants of this grid
 
-## fish -- developing the questions
+## 7 fish -- developing the questions
 + now, when I first planned my BER project I wasn't exactly sure where I wanted to go
 + I wanted to ask layered questions about adaptation, but it was not clear to me what framework I should use to analyze student responses given that I wasn't necessarily interested in students' non-normative ideas, but the logic behind their reasoning
 + so first, I developed 15 open-ended questions and did a pilot version during the summer semester
@@ -79,12 +79,14 @@ Sweating occurs because ...
 + Many correctly noted that eyes are energetically costly in an environment where they are not used (ultimate pattern), some discussed a mutation occurring in an individual fish without explaining how that mutation may spread across the population -- rarely, some students were able to put these two concepts together to describe a historical evolutionary process
 + in this way the data really spoke to me: I realized that students were simply addressing various levels of explanation or description across the tinbergen framework
 
-## sting -- digress about the intentions of your framework
-
+## 8 sting -- digress about the intentions of your framework
+## bat
 + I developed a set of ten questions about different kinds of adaptation -- emergent features like species ranges, trait loss, trait gain, or even constraints -- in various organisms 
 + I used this questionaire in four biology courses from introductory to advanced, both before and after instruction
 + I ended up with just under 600 participants from the Fall and Spring semesters
 + I used my new framework to code student responses in an effort to... well, and that's the thing: what exactly was I trying to do? What question was I trying to answer?
+
+### sting
 + I had a lot of data, and I discovered, I think, an interesting pattern
 + But I myself had gotten lost in the details of my own work
 + This became especially clear to me after my submitted abstract for this talk I am giving right now was rejected -- around the same time I discovered that the talk I submitted to the Annual Evolution conference would be presented beside an intimidating group of biology education researchers
