@@ -337,30 +337,29 @@ line-height: normal;
   width: 65%;
 }
 
-/* slide six: ultimate pattern utility */
+/* slide six: utility of functional description */
 
-.bg_bat {
+
+.bg_butterfly {
   position: relative;
   z-index: 1;
-  background-color: #F7F7F6;
 }
 
-.bg_bat::before {    
+.bg_butterfly::before {    
       content: "";
-      background-image: url('images/bg/bat.jpg');
-      background-size: 600px;
+      background-image: url('images/bg/laertes-butterfly.jpg');
+      background-size: 40%;
       background-repeat: no-repeat;
-      background-color: #F7F7F6;
       position: absolute;
-      top: 350px;
-      right: 0px;
-      bottom: 0px;
-      left: 430px;
-      opacity: 0.9;
+      right: 1%;
+      bottom: 1%;
+      opacity: 0.4;
       z-index: -1;
 }
 
-/* slide seven: developing questions */
+/* slide seven: tinbergen framework, organized */
+
+/* slide eight: developing questions */
 
 .bg_fish {
   position: relative;
@@ -393,7 +392,7 @@ line-height: normal;
 
 }
 
-/* slide eight: personal digression */
+/* slide nine: gap in literature */
 
 .bg_sting {
   position: relative;
@@ -424,7 +423,7 @@ line-height: normal;
 }
 
 
-/* slide nine: gap in literature */
+/* slide ten: propose the framework */
 
 .bg_lobster {
   position: relative;
@@ -447,32 +446,7 @@ line-height: normal;
       z-index: -1;
 }
 
-
-/* slide ten: propose the framework */
-
-.bg_brain {
-  position: relative;
-  z-index: 1;
-  background-color: #F3F1EB;
-}
-
-.bg_brain::before {    
-  content: "";
-  background-image: url('images/bg/brain.jpg');
-  background-size: cover;
-  background-repeat: repeat;
-  background-color: #F3F1EB;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.2;
-  z-index: -1;
-}
-
-
-/* slide eleven: validity and reliability */
+/* slide eleven: validity evidence */
 
 .bg_leaves {
   position: relative;
@@ -503,9 +477,33 @@ line-height: normal;
   left: 250px;
 }
 
-/* slide twelve: pattern you discovered  */
+/* slide twelve: reliability evidence */
 
-/* slide thirteen: limitations and future work */
+.bg_bat {
+  position: relative;
+  z-index: 1;
+  background-color: #F7F7F6;
+}
+
+.bg_bat::before {    
+      content: "";
+      background-image: url('images/bg/bat.jpg');
+      background-size: 600px;
+      background-repeat: no-repeat;
+      background-color: #F7F7F6;
+      position: absolute;
+      top: 350px;
+      right: 0px;
+      bottom: 0px;
+      left: 430px;
+      opacity: 0.9;
+      z-index: -1;
+}
+
+/* slide thirteen: pattern you discovered  */
+
+
+/* slide fourteen: limitations and future work */
 
 .bg_3birds {
   position: relative;
@@ -582,7 +580,6 @@ line-height: normal;
 }
 
 
-
 /* TWO MAYBES FOR SLIDES */
 
 .bg_swan {
@@ -646,6 +643,29 @@ line-height: normal;
   top: 130px;
   left: 550px;
 }
+
+
+.bg_brain {
+  position: relative;
+  z-index: 1;
+  background-color: #F3F1EB;
+}
+
+.bg_brain::before {    
+  content: "";
+  background-image: url('images/bg/brain.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+  background-color: #F3F1EB;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.2;
+  z-index: -1;
+}
+
 
 
 /*-- LINK STYLING --*/
@@ -721,7 +741,7 @@ hr {
   font-size: 65%;
   line-height: 1.3em;
   color: #FFFFFF;
-  width: 15%;
+  width: 25%;
 }
 
 /*-- Slide number --*/
