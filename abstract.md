@@ -20,6 +20,12 @@ Is the study likely to be of general interest to SABER attendees?
 Does the study provide clear implications for teaching, learning, or research in biology?
 
 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
+
+
+git remote add origin https://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@github.com/ledelaney/07-21-SABER.git
+
+git pull https://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@github.com/ledelaney/07-21-SABER.git
+
 /Users/lucydelaney/.ssh/id_ed25519.
 ssh-add -K ~/.ssh/id_ed25519
 
