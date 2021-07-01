@@ -808,6 +808,7 @@ hr {
   left: 1em;
   font-size: 65%;
   line-height: 1.3em;
+  font-weight: bolder;
 }
 
 .footnote-dark {
@@ -817,7 +818,7 @@ hr {
   font-size: 65%;
   line-height: 1.3em;
   color: #FFFFFF;
-  width: 25%;
+  font-weight: bolder;
 }
 
 /*-- Slide number --*/
