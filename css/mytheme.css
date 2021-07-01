@@ -290,6 +290,7 @@ line-height: normal;
       z-index: -1;
 }
 
+/* slide four: causal scope */
 
 .bg_jelly {
   position: relative;
@@ -311,7 +312,7 @@ line-height: normal;
 }
 
 
-/* slide four: kampourakis typology */
+/* slide five: kampourakis typology */
 
 .bg_peacock {
   position: relative;
@@ -331,7 +332,7 @@ line-height: normal;
       z-index: -1;
 }
 
-/* slide five: legitimate teleology */
+/* slide six: legitimate teleology */
 
 .bg_bison {
   position: relative;
@@ -361,7 +362,7 @@ line-height: normal;
   width: 65%;
 }
 
-/* slide six: utility of functional description */
+/* slide seven: utility of functional description */
 
 
 .bg_butterfly {
@@ -381,9 +382,9 @@ line-height: normal;
       z-index: -1;
 }
 
-/* slide seven: tinbergen framework, organized */
+/* slide eight: tinbergen framework, organized */
 
-/* slide eight: developing questions */
+/* slide nine: developing questions */
 
 .bg_fish {
   position: relative;
@@ -416,7 +417,7 @@ line-height: normal;
 
 }
 
-/* slide nine: gap in literature */
+/* slide ten: gap in literature */
 
 .bg_sting {
   position: relative;
@@ -446,7 +447,7 @@ line-height: normal;
   width: 35%;
 }
 
-/* slide ten: propose the framework */
+/* slide eleven: propose the framework */
 
 .bg_butterfly {
   position: relative;
@@ -467,7 +468,7 @@ line-height: normal;
       z-index: -1;
 }
 
-/* slide eleven: validity evidence */
+/* slide twelve: validity evidence */
 
 .bg_leaves {
   position: relative;
@@ -498,7 +499,7 @@ line-height: normal;
   left: 230px;
 }
 
-/* slide twelve: reliability evidence */
+/* slide thirteen: overview */
 
 .bg_bat {
   position: relative;
@@ -521,7 +522,7 @@ line-height: normal;
       z-index: -1;
 }
 
-/* slide thirteen: pattern you discovered  */
+/* slide fourteen: pattern you discovered  */
 
 .bg_10-results {
   background-image: url(images/figs/50-results.png);
@@ -556,7 +557,7 @@ line-height: normal;
 
 
 
-/* slide fourteen: limitations and future work */
+/* slide fifteen: limitations and future work */
 
 .bg_3birds {
   position: relative;
@@ -608,12 +609,6 @@ line-height: normal;
   opacity: 1;
   z-index: -1;
 }
-
-/* .bird2text {
-  width: 40%;
-  position: absolute;
-  right: 0%;
-} */
 
 /* acknowledgements slide */
 

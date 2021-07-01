@@ -2,6 +2,8 @@
 
 ![](css/images/07-21-saber-card.png)
 
+🎞️ [View Slide Deck](https://ledelaney.org/talks/2021saber/)
+
 ## The abstract (I should have written)
 
 **RESEARCH PROBLEM**.
