@@ -471,7 +471,7 @@ line-height: normal;
   line-height: 1.3em;
   position: relative;
   text-align: left;
-  left: 250px;
+  left: 230px;
 }
 
 /* slide twelve: reliability evidence */
@@ -499,6 +499,38 @@ line-height: normal;
 
 /* slide thirteen: pattern you discovered  */
 
+.bg_10-results {
+  background-image: url(images/figs/50-results.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+.bg_11-results {
+  background-image: url(images/figs/51-results.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+.bg_12-results {
+  background-image: url(images/figs/52-results.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+.bg_13-results {
+  background-image: url(images/figs/53-results.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+
+.bg_14-results {
+  background-image: url(images/figs/54-results.png);
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+
 
 /* slide fourteen: limitations and future work */
 
@@ -524,13 +556,42 @@ line-height: normal;
 }
 
 .birdtext{
+  background-color: #F3F1EB;
+  width: fit-content;
   position: relative;
-  bottom: 85px;
-  left: 70px;
-
+  right: 10px;
 }
 
 /* conclusion slide */
+
+.bg_2birds {
+  position: relative;
+  z-index: 1;
+  background-color: #f3e9e0;
+}
+
+.bg_2birds::before {    
+  content: "";
+  background-image: url('images/bg/2birds.jpg');
+  background-size: 440px;
+  background-repeat: no-repeat;
+  background-color: #f3e9e0;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+/* .bird2text {
+  width: 40%;
+  position: absolute;
+  right: 0%;
+} */
+
+/* acknowledgements slide */
 
 .bg_lotus {
   position: relative;
@@ -559,12 +620,6 @@ line-height: normal;
   top: 20px;
 }
 
-.lotusicon {
-  position: relative;
-  left: 40px;
-  padding: 0.1px;
-}
-
 .lotustext {
   position: relative;
   text-align: right;
@@ -575,6 +630,9 @@ line-height: normal;
   background-color: rgb(218, 174, 169);
   width: fit-content;
 }
+
+
+
 
 
 /* TWO MAYBES FOR SLIDES */
