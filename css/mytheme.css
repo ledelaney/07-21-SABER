@@ -2,7 +2,7 @@
 
 
 /*-- Font sizing --*/
-.larger { font-size: 400% }
+.larger { font-size: 400%; line-height: normal;}
 .bitlarger { font-size: 200%; line-height: normal; }
 .large { font-size: 130%; line-height: normal; }
 .midi { font-size: 85% }
@@ -12,6 +12,10 @@
 
 .italic{
 	font-style: italic;
+}
+
+.bold {
+  font-weight: bolder;
 }
 
 .strike{
@@ -283,6 +287,26 @@ line-height: normal;
       bottom: 0px;
       left: 0px;
       opacity: 0.2;
+      z-index: -1;
+}
+
+
+.bg_jelly {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_jelly::before {    
+      content: "";
+      background-image: url('images/bg/naturalists-misc.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 500px;
+      opacity: 0.4;
       z-index: -1;
 }
 
@@ -633,114 +657,6 @@ line-height: normal;
 
 
 
-
-
-/* TWO MAYBES FOR SLIDES */
-
-.bg_lobster {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F5F0;
-}
-
-.bg_lobster::before {    
-      content: "";
-      background-image: url('images/bg/lobster.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F6F5F0;
-      position: absolute;
-      top: 320px;
-      right: 0px;
-      bottom: 0px;
-      left: 40px;
-      opacity: 1;
-      z-index: -1;
-}
-
-.bg_swan {
-  position: relative;
-  z-index: 1;
-  background-color: #EFEDE6;
-}
-
-.bg_swan::before {    
-      content: "";
-      background-image: url('images/bg/swan.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #EFEDE6;
-      position: absolute;
-      top: 45px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-.bg_swan h2 {
-  position: absolute;
-  top: 390px;
-  width: 40%;
-  left: 515px;
-}
-
-.swantext {
-  position: absolute;
-  top: 500px;
-  left: 570px;
-}
-
-
-.bg_turtle {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F5F1;
-}
-
-.bg_turtle::before {    
-      content: "";
-      background-image: url('images/bg/turtle.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F6F5F1;
-      position: absolute;
-      top: 60px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 0.9;
-      z-index: -1;
-}
-
-.turtletext{
-  position: absolute;
-  top: 130px;
-  left: 550px;
-}
-
-
-.bg_brain {
-  position: relative;
-  z-index: 1;
-  background-color: #F3F1EB;
-}
-
-.bg_brain::before {    
-  content: "";
-  background-image: url('images/bg/brain.jpg');
-  background-size: cover;
-  background-repeat: repeat;
-  background-color: #F3F1EB;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.2;
-  z-index: -1;
-}
 
 
 
