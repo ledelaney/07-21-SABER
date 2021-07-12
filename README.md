@@ -2,6 +2,8 @@
 
 ![](css/images/07-21-saber-card.png)
 
+📹 [View Recording](https://uofi.box.com/v/2021saber-talk)
+
 🎞️ [View Slide Deck](https://ledelaney.org/talks/2021saber/)
 
 ## The abstract (I should have written)
